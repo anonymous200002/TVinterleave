@@ -59,7 +59,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
 
 ## 🤖 2. VLM-based Evaluation
 * 📁 **Provided Files**
-  * <small>`vlm_evaluation/prompts.jsonl` → *Prompts used for evaluation.*</small>  
+  * <small>`vlm_evaluation/vlm_evaluation_data.jsonl` → *Prompts used for evaluation.*</small>  
   * <small>`vlm_evaluation/vlm_evaluation.py` → Code for VLM-based evaluation </small>  
 ---
 
