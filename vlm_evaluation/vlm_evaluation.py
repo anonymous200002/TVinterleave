@@ -59,7 +59,7 @@ def decode_response(response):
     for key in keys:
         score = data[key]["score"]
         assert score in ['1', '2', '3', '4', '5', 1, 2, 3, 4, 5]
-        score = int(score)
+        score = int(score) - 1
         score_list.append(score)
     return score_list
 
