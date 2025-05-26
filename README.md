@@ -98,16 +98,16 @@ We use the same prompts as human evaluation perform a VLM-based evaluation.
   - **5 - Very Excellent:**  
     Perfect: not only flawless but demonstrate outstanding consistency and execution.
     
-  - **3 – Excellent:**  
+  - **4 – Excellent:**  
     Flawless: no noticeable issues.
 
-  - **2 – Good:**  
+  - **3 – Good:**  
     Nearly flawless, with only minor, negligible imperfections. 
 
-  - **1 – Fair:**  
+  - **2 – Fair:**  
     Minor flaws observed in one clip.
 
-  - **0 – Poor:**  
+  - **1 – Poor:**  
     Major or multiple flaws.
 
   - **0 – Very Poor:**  
