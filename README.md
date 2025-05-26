@@ -118,16 +118,6 @@ We use the same prompts as human evaluation perform a VLM-based evaluation.
 
 ---
 
-- **Result Summary**:
-
-| Model       | Style | Entity | Background | Perspective | Prompt Align | Visual |
-|-------------|-------|--------|------------|-------------|--------------|--------|
-| Baseline    | 1.06  | 1.28   | 0.77       | 1.78        | 3.13         | 2.87   |
-| +InterVID   | 0.92  | 1.07   | 0.72       | 1.45        | 2.61         | 2.68   |
-| +OpenVID    | 1.01  | 1.44   | 0.80       | 1.66        | 2.98         | **3.05** |
-| **+CoI-VID** | **2.91** | **3.35** | **2.65** | **2.81** | **3.41** | 2.94 |
-
-
 ---
 
 ## 🎯 3. Similarity-based Evaluation
