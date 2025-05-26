@@ -67,26 +67,26 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
 
 We use the same prompts as human evaluation perform a VLM-based evaluation.
 
-- **Procedure**:  GPT-4o is prompted to assess model outputs along the following six dimensions:
+- **Procedure**:  Qwen2-VL-72B-Instruct is prompted to assess model outputs along the following six dimensions:
 <small>
 
 - 1. **Stylistic Consistency**  
-  The visual styles of the six clips should remain consistent — including aspects like color tone, lighting, rendering technique, and texture details.
+  the visual styles of frames need to be consistent (e.g., color tone, lighting, rendering technique, texture details)
 
 - 2. **Entity Consistency**  
-  Key characters and objects should retain consistent identity and attributes across all clips.
+  the key characters and objects need to be consistent across frames. (e.g., retain the same attributes and identity)
 
 - 3. **Background Consistency**  
-  Backgrounds and environments should remain visually and semantically consistent across clips.
+  the backgrounds and environments need to be consistent across frames? 
 
 - 4. **Perspective Transition Coherence**  
-  Transitions between scenes and camera angles should be smooth and logically aligned.
+  the transitions between camera angles and scenes need to be smooth and logically aligned.
 
 - 5. **Text Prompt Alignment**  
-  The generated video sequence should accurately reflect the meaning and intention of the original text prompt.
+  the frames need to be accurately reflect the content and intent of the original text prompts.prompt.
 
 - 6. **Visual Plausibility**  
-  Overall visual quality should be realistic, with no obvious artifacts, glitches, or implausible elements.
+  is the overall visual quality realistic? Are there any noticeable artifacts, glitches, or implausible elements?
 
 </small>
 
@@ -95,20 +95,23 @@ We use the same prompts as human evaluation perform a VLM-based evaluation.
 
 <small>
 
-  - **4 - Very Excellent:**  
-    Perfect. All 6 clips are flawless and demonstrate outstanding consistency and execution across all dimensions.
-
+  - **5 - Very Excellent:**  
+    Perfect: not only flawless but demonstrate outstanding consistency and execution.
+    
   - **3 – Excellent:**  
-    Flawless. All clips are fully correct with no noticeable issues.
+    Flawless: no noticeable issues.
 
   - **2 – Good:**  
-    Nearly Flawless. All clips are correct with only minor, negligible imperfections.
+    Nearly flawless, with only minor, negligible imperfections. 
 
   - **1 – Fair:**  
-    Some Flaws. Minor flaws observed in one clip.
+    Minor flaws observed in one clip.
 
   - **0 – Poor:**  
-    Significant Flaws. Major or multiple flaws present in more than one clip.
+    Major or multiple flaws.
+
+  - **0 – Very Poor:**  
+    Multiple (> 1) major flaws.
 </small>
 
 > 🧪 Averaged over 6 evaluations per sample (1 full + 5 pairwise), with VLM calibration via reference examples.
