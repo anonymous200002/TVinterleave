@@ -1,6 +1,13 @@
+# 🗂️ Samples of CoI-VID
+* 📁 **Provided Files**
+  * <small>`CI-VID_samples_for_visualization/`
+    
+This part of the repository contains samples extracted from CoI-VID to better illustrate the dataset’s structure and characteristics.
+
+
 # 📊 Quantitative Evaluation for CoI-VID
 
-This repository contains the quantitative evaluation resources for the CoI-VID dataset, including evaluation code, prompts, visualizations, and sample annotations. We provide three complementary evaluation approaches:
+This part of the repository contains the quantitative evaluation resources for the CoI-VID dataset, including evaluation code, prompts, visualizations, and sample annotations. We provide three complementary evaluation approaches:
 
 ## 🔍 Overview
 
