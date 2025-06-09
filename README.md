@@ -5,12 +5,12 @@
 This part of the repository contains the core code for constructing the CI-VID dataset. Five key functions have been modularized to facilitate experimentation and integration into new workflows.
 
 - **Functions**
-<small>
-  -  *clip_similarity_detection_and_segment*
-  -  *clip_seq_main_object_detection*
-  -  *clip_seq_single_annotation*
-  -  * clip_seq_joint_annotation*
-</small>
+ <small>
+   -  *clip_similarity_detection_and_segment*
+   -  *clip_seq_main_object_detection*
+   -  *clip_seq_single_annotation*
+   -  * clip_seq_joint_annotation*
+ </small>
 
 # 🗂️ Samples of CI-VID
 * 📁 **Provided Files**
