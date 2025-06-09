@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A person is in a park-like setting, discussing or pointing towards a sign that warns users about the water not being for domestic or drinking purposes. The sign features both a textual notice and a diagram of an RV with a drain, likely indicating a designated area for RV dumping. The person is wearing a gray shirt and at one point has a white glove on their hand suggesting interaction with the water or nearby elements. Central to the setting is a drain or small culvert filled with water surrounded by grass and a slightly raised concrete border. This area appears to be near an RV site, evidenced by the presence of vehicles and a fountain visible in the background. The person kneels down near the water, potentially to highlight or further explain its presence or purpose, emphasizing the relationship between the sign and the water.",
+            "camera_angle": "The camera captures the action from a slight low angle, keeping focus on both the individual and the sign within the context of the surrounding park.",
+            "camera_movement": "The camera mainly remains stationary, with slight adjustments to accommodate the person’s movements, possibly focusing on the sign and the water.",
+            "video_background": "The background is a landscaped park featuring large trees with lush green leaves, a concrete path, and RV parking spaces with visible parked vehicles. A water fountain adds a natural element, and lighting is natural, suggesting daytime conditions."
+        },
+        {
+            "video_content": "The content involves a person interacting in a park-like setting. Initially, there is focus on the person's hand, covered with a white glove, reaching down towards the grass beside a concrete curb, indicating a potential action of picking or examining something from the ground. Subsequently, attention shifts towards a wide, open area showcasing signs. One sign has text 'DOMESTIC/DRINKING PURPOSES.' Another is a pictorial blue sign indicating access for recreational vehicles, with a trailer and arrow symbol. The individual wearing a grey shirt stands near these signs and gestures towards them, possibly explaining or indicating their significance. The context suggests an instructional or informational purpose, possibly related to recreational area rules or facilities. Actions appear deliberate, emphasizing the signs and their locations, making this possibly an educational or documentary type of content.",
+            "camera_angle": "The camera captures scenes from various angles, initially focusing on a low angle for the hand and curb, and then a frontal view of the person near the sign.",
+            "camera_movement": "There is visible panning to follow the actions of the hand reaching down and gestures towards the signage, combined with static shots of the person and surroundings.",
+            "video_background": "The background features a park-like environment, with patches of grass, a concrete curb, and a grey paved path. Trees with green foliage are scattered throughout, suggesting a serene outdoor setting, possibly in a recreational area. Lighting is bright and natural, indicating daytime."
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The person continues to interact with the signs, emphasizing their importance. The white glove remains a part of the interaction, pointing towards the signs. The individual is seen crouching and moving between different spots around the signs, actively demonstrating the information conveyed by the signage regarding water usage and RV access.",
+            "change_in_video_content": "The focus transitions to detailed views of the signs and includes more gestures directed at them. The pictorial elements on the signs are highlighted, adding emphasis to RV-related information. The person appears more engaged in highlighting the signs' locations and communicating their meaning.",
+            "continuation_in_video_background": "The setting remains a park-like environment with trees and an open area, consistent with the initial scene.",
+            "change_in_video_background": "The background includes a clearer view of the signs and more of the open space around them, providing a wider view of the park area.",
+            "change_in_camera_angle": "The angle transitions from slightly low to more frontal views, especially when focusing on the person gesturing towards the signs.",
+            "change_in_camera_movement": "The camera involves more panning to follow gestures and includes static shots to focus on the signs, maintaining clarity in the informational aspect.\"\n}\n```"
+        }
+    ]
+}

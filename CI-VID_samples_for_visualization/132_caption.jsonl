@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The video captures a person dressed in a red jacket who appears to be outside a commercial building or supermarket, holding a bottle with a green cap and a package in their hands. The setting is a rainy day, as evidenced by the wet ground and overcast skies. A dark-colored vehicle, likely a compact car, is parked along a curb lined with concrete bollards. In the background, a building featuring large windows and flags, possibly indicating a public or municipal location, can be seen. The person is in the act of either entering or exiting through a sliding glass door, which leads to the exterior area. Additionally, the person is holding multiple items, suggesting they might have just purchased them.",
+            "camera_angle": "The camera is positioned at a slightly elevated angle, focusing on the person holding items, with a view of the surroundings.",
+            "camera_movement": "There is a stable view with minimal movement, maintaining a clear focus on the person and objects in hand.",
+            "video_background": "The background consists of a gray parking area with visible cars, bordered by a building with stone and wood exterior. The weather appears gloomy with wet surfaces, likely from recent rain, contributing to a somber lighting condition. There are also several flags visible on the building, possibly indicating an official or civic premise."
+        },
+        {
+            "video_content": "A person dressed in a bright red puffer jacket is engaged in driving a vehicle. They are holding the steering wheel with both hands, indicating full attention to driving. The jacket's texture is quilted and appears warm, suitable for cooler weather. The individual is wearing a seatbelt, emphasizing safety. Outside the vehicle, rain can be observed on the windows, suggesting that the person is driving during wet weather conditions, possibly affecting visibility. The vehicle seems to be a van or a larger car, based on the interior design, which includes spacious seating and a modern dashboard. Throughout, the person maintains a consistent grip and driving posture, indicating careful navigation through the elements outside. The interior space includes multiple padded seats with dark upholstery, and various ceiling-mounted panels and lights suggest a well-equipped vehicle.",
+            "camera_angle": "The perspective is from the front passenger side, capturing the driver from the side and slightly to the rear, offering a clear view of the individual and the steering wheel.",
+            "camera_movement": "There is no noticeable camera movement, maintaining a steady focus on the individual driving, without any zoom or focus change observed.",
+            "video_background": "The setting is the interior of a vehicle, characterized by dark, padded seat upholstery and clean lines typical of a modern car or van. The weather outside is rainy, evident by water droplets on the windows. The exterior is green and blurred, suggesting a drive through a wooded or rural area. Interior lighting seems consistent with overhead lights adding to visibility."
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The individual wearing the red jacket continues to be the focus. They transition from holding purchased items near a commercial building to driving a vehicle. The same person is now in the driver's seat, gripping the steering wheel firmly with both hands, maintaining attention to driving conditions. The rainy weather persists as a common element across both clips.",
+            "change_in_video_content": "Initially, the individual is outside holding groceries on a rainy sidewalk. Subsequently, the focus shifts to the individual driving a vehicle in the same weather, indicating a change from a pedestrian setting to an automotive environment.",
+            "continuation_in_video_background": "Rainy conditions are present throughout both clips, with wet surfaces visible in both scenes.",
+            "change_in_video_background": "The environment shifts from an outdoor parking area in front of a building to the interior of a vehicle. The surrounding scenery changes from urban to green, indicating passage through a rural area.",
+            "change_in_camera_angle": "The angle shifts from an elevated view of the person carrying items to a side view of the person driving, captured from the front passenger seat.",
+            "change_in_camera_movement": "The camera remains stable in both clips, but there is a shift from an exterior view to an interior in-vehicle perspective, with no change in zoom or focus."
+        }
+    ]
+}

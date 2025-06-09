@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A hockey player is standing in front of the net, wearing a white and red uniform with the Swiss cross symbol prominently displayed on the chest. The player is fully equipped with a helmet and protective gear, including a glove and a stick held upright. The uniform features red stripes on the arms, and the number 20 is visible on the sleeve, indicating the player's jersey number. The setting is an ice hockey rink, evident from the net and surrounding features typical of such venues. The Olympic rings are visible in the background, indicating that this is likely an Olympic event. The player is positioned near the goal, displaying a focused and ready stance, which is typical for a goaltender anticipating action. Throughout the video, the player maintains a steady position, possibly preparing for an incoming play.",
+            "camera_angle": "The camera captures the scene from a frontal perspective slightly to the left of the main subject, centered on the player and the goal.",
+            "camera_movement": "There is no apparent camera movement within the footage. The camera remains static, maintaining focus on the player and the net.",
+            "video_background": "The background shows the interior of an ice hockey rink, with a large, rigid net and the iconic Olympic rings on the wall. The setting is well-lit, typical of indoor sports arenas, providing clear visibility of the player and their attire. The environment is a sporting venue, suggesting a competitive or practice scenario."
+        },
+        {
+            "video_content": "The video captures an intense moment in an ice hockey match between Canada and Switzerland at the 2022 Olympics. Players from both teams are closely packed in front of the Swiss goal, actively engaged in a scoring attempt. The Canadian players, in black jerseys, are aggressively attacking with hockey sticks poised to hit the puck. The Swiss goalkeeper, wearing a red and white jersey and helmet, is crouched near the goalposts, appearing focused and prepared to block any incoming puck. Surrounding the goal area are other Swiss players wearing red and white uniforms, with numbers and names visible on their backs. The puck can be seen on the ice near the goal line, surrounded by players. In the next moment, the scene transitions to a wider view, showing the Canadian defense regrouping with the puck behind their goal as a Swiss player approaches. Spectators and team staff, some dressed in protective overalls, can be seen along the sidelines, suggesting an official competitive event.",
+            "camera_angle": "The camera is positioned directly overhead and slightly elevated, providing a clear view of the ice and the action around the goal.",
+            "camera_movement": "The view transitions from a tight overhead shot near the goal to a wider angle capturing more of the rink and players, indicating a zoom out.",
+            "video_background": "The setting is an enclosed ice hockey rink with bright lighting ensuring high visibility on the white ice surface. Arena walls display Olympic insignia, enhancing the competitive atmosphere. Behind the protective glass, substitute benches are visible, along with a small crowd sitting on benches. The background includes event-specific branding and scoreboards showing the team's scores and period information.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The action continues with players from both the Swiss and Canadian teams converging near the Swiss goal, attempting to influence the play. The Swiss goalkeeper remains in a defensive position, reacting to the Canadian attack. Swiss players try to protect the goal, while Canadian players focus on pushing the puck past the defense. The puck is visible near the Swiss goal line, prompting dynamic movements from both teams. Subsequently, the puck moves away as Canadian defenders gather the puck behind their goal, indicating a transition in play. A Swiss player approaches, likely continuing offensive efforts.",
+            "change_in_video_content": "The first clip focuses solely on the Swiss goaltender, while the second clip transitions to active gameplay involving both teams near the Swiss goal and then behind the Canadian goal. The environment shifts from a static pose of the goaltender to a high-energy scene of players converging, attempting to score or defend, involving more players and actions on the ice.",
+            "continuation_in_video_background": "The indoor hockey rink remains constant, with the Olympic rings and arena walls serving as a prominent backdrop.",
+            "change_in_video_background": "Spectators and team staff near the sidelines become more visible, along with event-specific branding and a scoreboard showing teams' scores and period information.",
+            "change_in_camera_angle": "The angle changes from a frontal view of the goaltender to an overhead view of the goal area and later, a wider view of the full rink, capturing more action.",
+            "change_in_camera_movement": "The camera moves from a static position to an overhead shot before zooming out to include more of the rink and surrounding action at a broader angle.\"\n}\n```"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "In a hardware store, a person wearing a red jacket is holding an ice-blue plastic bucket. Initially, the person is in motion, bringing the bucket toward them and adjusting their grip. The bucket has a handle and appears to be a typical household item. Surrounding the individual are various hardware supplies organized on shelves, including packages of items hanging and boxes placed on the shelves. The environment conveys a specialized retail setting with products such as funnels stacked nearby. The tiles on the floor are light-colored, and there is visible shelving filled with other items, providing a clear indication of the store’s focus on home improvement materials.",
+            "camera_angle": "The perspective is at shoulder height, capturing a close side view of the person holding the bucket, while also showing parts of the store's interior surroundings.",
+            "camera_movement": "The camera maintains a steady position without noticeable movement, focusing closely on the subject holding the bucket.",
+            "video_background": "The setting is a hardware store with products like tapes, funnels, hardware tools, and jugs neatly organized on shelves. The lighting is bright, typical of indoor retail environments, and large windows with bars allow some natural light. Shelves are filled with consumer goods, and the store has a typical retail aesthetic emphasizing a variety of tools and domestic products."
+        },
+        {
+            "video_content": "A person wearing a red jacket is in a hardware store, browsing items on a shelf. Initially, the hand is seen reaching towards a can of WD-40 adorned with a red cap, among various other items such as a black bottle and a blue box labeled \\\"XTRA resistente 9-9 1/2\\\". The person picks up the can and starts moving away from the shelf. The surrounding shelves contain various tools and products commonly found in hardware stores, such as tapes and cables. The individual holds the can securely while looking at more products. The area is well-stocked, indicating the store likely has a variety of DIY or maintenance-related items. Finally, the person is seen holding the can while standing in the aisle, glancing around possibly for more items or moving towards the checkout.",
+            "camera_angle": "The camera captures the scene from a first-person point of view, simulating the eye level of the individual as they pick up the can.",
+            "camera_movement": "The camera mostly remains steady as the person reaches for the can, with slight movement simulating the walking motion as they move away.",
+            "video_background": "The environment is a hardware store with well-lit conditions. Many shelves are stocked with tools, tapes, and other household hardware items. The flooring is tiled, and there are large windows and glass doors allowing natural light inside, enhancing the visibility of the items on display."
+        },
+        {
+            "video_content": "In a small retail shop, a person in a red coat interacts with objects on a counter. A large, blue plastic bucket is placed prominently on the counter, partially obscuring the view of various products on display behind it. In the background, there are numerous items for sale, including shoes and packaged goods hanging from a pegboard. The scene takes place indoors, likely during the day, as suggested by the large windows allowing natural light to enter. The person then picks up a blue can with yellow text from a nearby shelf and places it next to the bucket on the counter. The can is a 500ml container labeled 'SISTEMA PROFESSIONALE' with Italian text describing its use. This sequence suggests that the person might be preparing to purchase the items or use them for a task, such as a DIY project.",
+            "camera_angle": "A waist-level perspective captures the person's hands and the items on the counter, offering a clear view of the objects in focus.",
+            "camera_movement": "The camera remains stationary with no noticeable panning, tilting, or zooming. It maintains a consistent focus on the actions occurring on the counter.",
+            "video_background": "The setting is a well-lit retail environment with large windows providing natural light. Various products are organized on shelves and pegboards, including tools and maintenance products. The clutter of retail items in the background adds context to the indoor shop location."
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The person remains in the same hardware store setting, transitioning from holding a plastic bucket to interacting with items on a shelf. The individual engages with products directly by reaching for a can of WD-40.",
+            "change_in_video_content": "The focus shifts from adjusting the grip on a plastic bucket to selecting and holding a can of WD-40. The narrative progresses from handling a bucket to exploring and potentially purchasing maintenance products.",
+            "continuation_in_video_background": "The hardware store environment persists with light-colored tiles and neatly organized shelves.",
+            "change_in_video_background": "No significant change in background elements; the scene still depicts aisles with hardware products under bright retail lighting.",
+            "change_in_camera_angle": "The angle shifts from shoulder height side view to a first-person perspective, focusing on the reach for the can.",
+            "change_in_camera_movement": "The camera moves slightly simulating the person’s walking motion, compared to the previous steadiness.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The person previously seen in the hardware store is now in a retail shop. They continue their activity by placing a blue can with yellow text labeled 'SISTEMA PROFESSIONALE' on a counter next to a large blue bucket. This indicates a sequence of acquiring or dealing with items, possibly for purchase.",
+            "change_in_video_content": "The setting shifts from a hardware store to a smaller retail shop environment. The can object changes from WD-40 to a different product with a distinct label. The individual’s action transitions from picking up an item to placing items on a counter, implying an advancement to a checkout or decision point.",
+            "continuation_in_video_background": "The second location is also well-lit with natural daylight entering through large windows.",
+            "change_in_video_background": "The setting changes from a hardware store with larger aisles and shelves to a smaller retail area with a counter, highlighting a more confined shopping space.",
+            "change_in_camera_angle": "The perspective changes from a first-person view in the aisle to a waist-level perspective at the counter.",
+            "change_in_camera_movement": "The movement transitions from slight walking motion to a stationary position with focus on items placed on the counter."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A platform displays a variety of condiment bottles at a dip sauce bar. The bottles, comprised of sauces such as ketchup and mustard, are arranged neatly on metal shelves. These bottles have white caps and clear packaging, allowing the colorful contents to be visible. Adjacent to the condiments, there is a box labeled in Japanese with the text '15cm x 100m.' Beside it, two white disposable cups are positioned in a small tray. Above, a vibrant poster advertises a 'Free Dip Sauce Bar,' featuring images of sauces and fries. Various other seasonings and spices, including a habanero sauce, are aligned on a side shelf, adding to the assortment of available condiments.",
+            "camera_angle": "The camera captures the scene from a slightly elevated angle, providing a clear view of the condiments and the poster.",
+            "camera_movement": "There is minimal camera movement, providing a steady-focused view on the condiments from a consistent angle.",
+            "video_background": "The background consists of a dark, smooth wall that contrasts with the bright colors of the condiments. The lighting is warm and even, highlighting the details of the sauces and the promotional poster that is prominently displayed."
+        },
+        {
+            "video_content": "The video depicts a small display of condiment bottles in a retail or restaurant setting. Five bottles of Marie Sharp's Red Habanero Pepper Sauce are aligned on the left, characterized by their white labels and orange-red contents. Adjacent to them are four tall green bottles of parmesan cheese brand 'Parisan', with bright yellow caps. In the background on the right, there's a prominent red and yellow advertisement sign with text in both English and Japanese offering a free product sample: 'Free ご自由にどうぞ'. To the left, part of a glass door offers a view of the outside area, creating a contrast between the indoor display and the street view beyond. The overall impression is of an organized condiment display accompanied by a promotional sign inviting customers to take a sample.",
+            "camera_angle": "The camera angle is straight-on, focusing directly at eye level with the condiments, providing a clear view of the entire arrangement.",
+            "camera_movement": "There is no noticeable camera movement; the view remains steady and focused on the condiment selection throughout the duration.",
+            "video_background": "The setting is indoors, featuring a metallic countertop where the condiments are placed. The lighting is ambient, allowing natural outdoor light to filter in through the glass door on the left, brightening part of the scene. The environment suggests a retail or food service location with casual, promotional elements, such as the bold signage with mixed-language text.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The second clip continues to showcase a range of condiment bottles, focusing on two main types: Marie Sharp's Red Habanero Pepper Sauce and Parisan parmesan cheese. The display remains methodically arranged, echoing the neat organization seen in the first clip. The pepper sauce bottles are placed on the left side, exhibiting their distinctive orange-red color, while the parmesan cheese bottles, with their green labels and yellow caps, are lined up alongside. The promotional theme persists with a visible bold sign inviting customers to sample the products.",
+            "change_in_video_content": "The second clip shifts focus from the assorted dip sauces in the first to a specific display of certain brands of condiments. The introduction of Marie Sharp's Red Habanero Pepper Sauce and Parisan parmesan cheese adds variety to the scene. The poster featuring sauces and fries present in the first clip is absent in the second, replaced by a bilingual advertisement sign.",
+            "continuation_in_video_background": "The scene remains in an indoor setting with condiment arrangements displayed prominently.",
+            "change_in_video_background": "The background now includes a view of the outside through a glass door, contrasting with the earlier dark wall. The lighting also seems more natural.",
+            "change_in_camera_angle": "The camera transitions from a slightly elevated angle to a straight-on perspective at eye level.",
+            "change_in_camera_movement": "The camera remains steady in both clips; however, the second clip maintains a more direct focus without any angle variation.\"\n}\n```"
+        }
+    ]
+}

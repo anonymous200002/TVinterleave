@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "This brief video demonstrates a close-up of a BBQ Pulled Pork Burger being held and revealed by a person's hand. The burger is partially unwrapped, showing layers of juicy pulled pork, crispy fried onions, bacon strips, melted cheese, and fresh lettuce. The burger is presented on brown wrapping paper. Text appears overlaying the burger, indicating 'BBQ Pulled Pork Burger' with pricing details displayed as '¥750 / $6.60'. The hand adjusts slightly to reveal the details of the burger, focusing on its textures and ingredients.",
+            "camera_angle": "The camera is positioned in a top-close angle, focusing intimately on the burger from above.",
+            "camera_movement": "There is minimal camera movement, maintaining a steady shot while the subject is presented.",
+            "video_background": "The background consists of brown wrapping paper partially covering the table. Lighting is bright and evenly distributed, highlighting the burger's details, while the surroundings remain unobtrusive.\"\n}\n```"
+        },
+        {
+            "video_content": "A hamburger is held close to the camera by a person's hand. The bun is lifted, revealing a detailed view of the ingredients inside. The burger contains a slice of fresh tomato, crisp green lettuce, a layer of mayonnaise, a beef patty, crispy bacon, and a slice of cheddar cheese. The bun has a toasted appearance, and the lettuce shows a vibrant green color. The hamburger is partially wrapped in brown paper, adding a rustic feel to its presentation. The hand holding the burger gently lifts the top bun to showcase the stack of ingredients more clearly. The patty and bacon are notably textured, capturing the essence of a well-cooked burger.",
+            "camera_angle": "The camera angles slightly downward, closely capturing the hamburger being held up to emphasize its ingredients.",
+            "camera_movement": "The focus remains steady on the burger, with minimal movement, concentrating on the lift and reveal of the burger's contents.",
+            "video_background": "A simple, neutral-toned background, possibly a wooden or laminate tabletop, provides a contrasting backdrop to highlight the vibrant colors of the burger’s ingredients. The lighting is natural, enhancing the freshness of the produce and the texture of the meat.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The second clip continues to show a burger being held by a hand, similar to the first clip's presentation of the BBQ Pulled Pork Burger. The action of lifting or revealing the burger to showcase its ingredients remains consistent across both clips.",
+            "change_in_video_content": "The second clip differs in that it focuses on a hamburger with different ingredients, such as fresh tomato, crisp green lettuce, mayonnaise, beef patty, cheddar cheese, and a toasted bun. The first clip showcases a BBQ Pulled Pork Burger with pulled pork, crispy fried onions, bacon, melted cheese, and fresh lettuce.",
+            "continuation_in_video_background": "The background continues to be simple and neutral-toned, ensuring the burgers remain the focal point of the shots.",
+            "change_in_video_background": "The background in the second clip transitions to what appears to be a textured, possibly wooden or laminate tabletop, compared to the brown wrapping paper in the first clip.",
+            "change_in_camera_angle": "The camera angle changes from a top-close angle in the first clip to a slight downward angle in the second clip, still closely capturing the burger.",
+            "change_in_camera_movement": "There is minimal movement in both clips, but the focus shift in the second clip emphasizes the lifting of the bun to reveal the burger contents more clearly.\"\n}\n```"
+        }
+    ]
+}

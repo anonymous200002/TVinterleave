@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The video shows a person with long straight blonde hair wearing a colorful headband and glasses. They are seated in a casual indoor setting. The person appears to be wearing a black top with red sleeves. The bed with yellow bedding is visible on the right side of the scene, partially out of focus in certain areas. There is a plain, light-colored wall in the background. The individual seems to be speaking based on their natural head positioning and partial visibility of their mouth.",
+            "camera_angle": "The camera is positioned at a close-up front-facing view, capturing the person directly at eye level.",
+            "camera_movement": "The camera remains steady without any evident panning, tilting, or zooming, maintaining a fixed focus on the subject.",
+            "video_background": "The background consists of a plain, light-colored wall and a bed in the room's interior. Part of the bed with yellow bedding is visible on the right. The indoor lighting appears soft, providing adequate illumination without harsh shadows.\"\n}\n```"
+        },
+        {
+            "video_content": "A person with blonde, straight hair is seated indoors. The individual appears to be wearing a white shirt, with their upper body clearly visible. Behind them, a bedroom setting is discernible. To the left, part of a wooden bedframe is visible. To the right, a wooden door, partially open, reveals a wall-mounted hanger with dark clothing. A cluttered surface is visible in the background, holding items like hanging accessories and household objects. The lighting is warm and yellow-toned, giving the space a cozy and illuminated appearance.",
+            "camera_angle": "The camera captures the subject from a slightly lower angle, focusing primarily on the upper body and background elements.",
+            "camera_movement": "The camera remains steady without visible panning, tilting, or zooming during the short duration.",
+            "video_background": "The background is a bedroom with warm, diffused lighting. A wooden bedframe and bedding are visible on the left. A wooden door with hanging clothes is on the right, along with a surface holding various household objects.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The second clip continues to focus on the same person with long, blonde straight hair. This time, the individual is wearing a white shirt instead of the previous black top with red sleeves. The person remains seated indoors, and their upper body is clearly visible.",
+            "change_in_video_content": "The clothing changes from a black top with red sleeves to a white shirt. The background elements differ, now displaying a wooden bedframe, partially open wooden door with a wall-mounted hanger, and a cluttered surface with household items instead of a bed with yellow bedding and a plain wall.",
+            "continuation_in_video_background": "The scene remains an indoor setting, maintaining residential elements.",
+            "change_in_video_background": "The background changes from a plain wall and visible yellow-bedded furniture to a bedroom with a wooden bedframe, a wooden door, and various household items lit under warm lighting.",
+            "change_in_camera_angle": "The angle changes from a front-facing close-up at eye level to a slightly lower view capturing the upper body and surrounding background elements.",
+            "change_in_camera_movement": "The camera remains steady in both clips, with no visible panning, tilting, or zooming.\"\n}\n```"
+        }
+    ]
+}

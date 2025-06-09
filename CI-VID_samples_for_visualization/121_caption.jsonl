@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The scene features two gray plush shark toys positioned in the foreground, each having distinct features such as detailed stitching and glossy black eyes. The shark on the right has feminine features, such as painted-on eyelashes, indicating a styled design. In the background, there is a large screen displaying an image of two characters in orange and black spacesuits riding a spacecraft or futuristic hoverboard, set against a backdrop of outer space with Earth visible beneath them. The oversaturated colors of the space scene provide a stark contrast to the soft texture of the plush toys in the foreground. A person wearing a blue shirt sits in the middle of the frame with their arms crossed, partially obscured by the shark toys in the foreground and positioned in front of the displayed space-themed graphic.",
+            "camera_angle": "The perspective is a straight-on medium shot, capturing the plush toys, the person, and the background display directly from the front.",
+            "camera_movement": "The camera remains steady without noticeable panning, tilting, or zooming throughout the scene.",
+            "video_background": "The background consists of a large screen with vivid space imagery depicting two astronauts riding a spacecraft, with a view of Earth as the backdrop. The surrounding area is dimly lit, emphasizing the sharp colors of the digital screen and the foreground objects.\"\n}\n```"
+        },
+        {
+            "video_content": "Two gray plush shark puppets are prominently featured in the foreground, both facing each other with wide, open mouths and visible white teeth outlined in red fabric. They appear to be engaging with each other closely. Behind the puppets, a person wearing a blue short-sleeved shirt is seated with arms crossed and positioned as a background element in the video. In the far background, there is a poster of the green Marvel superhero, The Hulk, in an aggressive pose with a yellow and red pop-art-style burst design. On the left side of the setting, there are various office-like objects such as bookshelves and papers, along with a partially visible television or computer monitor mounted on the wall.",
+            "camera_angle": "The camera captures the scene from a frontal medium angle, focusing mainly on the puppets in the foreground and the seated individual in the background.",
+            "camera_movement": "The camera remains mostly stationary, maintaining consistent framing with no noticeable panning, tilting, or zooming.",
+            "video_background": "The background includes an office-like setting with shelves, papers, and a visible monitor or screen on the wall. The environment features a poster of The Hulk on the right, providing a colorful backdrop. Lighting is moderate and evenly distributed, with no harsh shadows.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The gray plush shark toys remain as central elements in the foreground. They transition from being stationary to actively interacting with each other, facing one another with open mouths displaying visible teeth. The person in the background wearing a blue shirt remains seated with crossed arms, maintaining their presence as a secondary element in the frame.",
+            "change_in_video_content": "The background display of a space scene with two astronauts and Earth is replaced by a poster of The Hulk in green, positioned against a yellow and red burst design. Additional office-related items appear on the left side, including shelves, papers, and a partially visible monitor.",
+            "continuation_in_video_background": "There is still a visual focus on a distinct, colorful element in the background that frames the same seated person. The surrounding lighting continues to provide consistent visibility of prominent elements.",
+            "change_in_video_background": "The space-themed display shifts to an office-like environment with visible shelves, papers, a monitor, and a pop-art-style Hulk poster.",
+            "change_in_camera_angle": "The camera maintains a front-facing medium shot but adjusts slightly to accommodate the new background and increased interaction between the shark puppets.",
+            "change_in_camera_movement": "The camera remains stationary with no noticeable movement, ensuring the framing of the interaction between the shark puppets and the seated individual stays consistent.\"\n}\n```"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A person with long dark braided hair is shown from the shoulders upwards in a brightly lit indoor setting. The person has a white sleeveless shirt with red straps visible on their shoulders. The environment suggests a casual or home setting. The background includes a beige wall with a framed picture on the right of the person and a light-colored curtain on the left. A sofa with cushions can also be seen in the background. The action primarily involves slight head movements as the person moves side to side during the brief video.",
+            "camera_angle": "The camera captures the person from a frontal close-up perspective focusing on their shoulders and head.",
+            "camera_movement": "The camera remains stationary without any perceptible panning, tilting, or zooming throughout the video.",
+            "video_background": "The background consists of a neutral indoor setting featuring a beige wall, a white curtain on the left, a framed picture on the right side, and a sofa with cushions in the far background. Lighting is bright and even, illuminating the setting clearly.\"\n}\n```"
+        },
+        {
+            "video_content": "A man and a woman are interacting in a brightly lit indoor environment. The man is wearing a white shirt and stands facing the woman, who is wearing a white tank top with a visible red sports bra underneath. The woman has her hair styled in a single braid. The woman is actively moving her arms and appears to be engaged in a vigorous activity or physical motion, while the man remains stationary against the wall, observing the woman. The interaction between them seems dynamic and focused.",
+            "camera_angle": "The camera captures the scene from an eye-level perspective, framing both characters from the waist up within a medium shot.",
+            "camera_movement": "The camera appears stable without significant movement, maintaining focus on the subjects as they interact.",
+            "video_background": "The setting is a domestic space with details such as a white door, beige walls, and a window with white blinds behind the man. To the right, there are bookshelves, hanging clothes, and orange curtains, indicating a lived-in and personal environment. Lighting is warm and even, brightly illuminating the scene.\"\n}\n```"
+        },
+        {
+            "video_content": "A person with medium-length dark hair styled into two braided pigtails is captured in a well-lit indoor environment. The individual is wearing a white top with red straps. The posture slightly shifts as the individual moves or turns their head, causing the braids to sway gently. A beige sofa with cushions is visible in the background, along with a painting featuring a bird, partially obscured by framing. A vertical white curtain is positioned on the left side near an electrical socket, adding depth to the domestic setting.",
+            "camera_angle": "The camera is positioned at a medium-close range, focused straight on the upper body and face of the individual.",
+            "camera_movement": "The camera maintains a mostly stationary position with minimal movement, tracking slight positional shifts of the individual.",
+            "video_background": "The setting is a cozy indoor room illuminated by soft lighting. The background includes a beige sofa with cushions, a framed painting of a bird on the wall, a vertical white curtain, and an electrical socket nearby. The overall scene suggests a lived-in domestic space.\"\n}\n```"
+        },
+        {
+            "video_content": "Two individuals, one on the left and one on the right, are shown standing indoors. Both are wearing white sleeveless tops, with the person on the right also wearing a red undergarment visible beneath the top. This individual also has dark hair styled in two braids. The individual on the left leans slightly back against a wall with vertical blinds in the background. The person on the right appears to be actively moving their hands, possibly gesturing toward the individual on the left. The setting includes a doorway leading to another room with visible furniture such as a bookshelf and workout equipment, adding context to the location as likely being a residential or casual interior space.",
+            "camera_angle": "The camera is positioned at a medium shot level, viewing both individuals from the waist up, emphasizing their upper bodies and expressions.",
+            "camera_movement": "The camera remains static throughout, maintaining focus on the two individuals without any noticeable panning or zooming.",
+            "video_background": "The environment is an indoor space with neutral-colored walls, vertical blinds covering a window on the left, and a doorway leading to another room. The secondary room features a bookshelf, workout equipment, and other household objects, with warm lighting providing clear visibility.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The person with long braided hair continues to appear and is now interacting with a new character, a man in a white shirt. The woman, still wearing the white tank top with red straps and sports bra, is engaged in active and vigorous movements, possibly exercise or related activity, while the man observes and remains stationary. Both characters are framed from waist up.",
+            "change_in_video_content": "The addition of another character, a man in a white shirt, changes the dynamic. The woman transitions from individual slight head movements to active arm movements, indicating a shift in activity and interaction.",
+            "continuation_in_video_background": "The indoor setting remains brightly lit with visible beige walls and domestic elements.",
+            "change_in_video_background": "The background changes to include additional elements such as bookshelves, hanging clothes, orange curtains, and a closed white door with window blinds behind the man. The visible sofa and cushions from the first clip are no longer present.",
+            "change_in_camera_angle": "The camera shifts from a close-up, shoulder-up perspective to a medium shot framing both characters from the waist up.",
+            "change_in_camera_movement": "The camera remains stable in both clips with no panning, tilting, or zoom adjustments.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The woman wearing a white tank top with visible red straps continues to be featured. Her activity transitions to showing a closer view of her upper body and hair, moving slightly. The dynamic between the two characters shifts as the man is no longer in the frame.",
+            "change_in_video_content": "The man previously standing stationary against the wall is absent in the second clip, leaving the focus solely on the woman. The visual detail shifts to a closer view of her braided pigtails and upper body with subtle motion.",
+            "continuation_in_video_background": "The bright indoor domestic setting remains consistent in the second clip, including beige tones and minor household elements visible.",
+            "change_in_video_background": "The background shifts from a wide view of the room, shelves, and curtains to a closer framing that predominantly includes part of a beige sofa, a painting, and vertical white curtains.",
+            "change_in_camera_angle": "The camera angle changes from a medium shot waist-up perspective to a medium-close shot focused primarily on the woman’s upper body and braids.",
+            "change_in_camera_movement": "The camera becomes focused on minimal tracking of the woman's subtle movements, with no distinct panning or tilting evident.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The individual with two braided pigtails and the white top with red straps remains present in the second clip. Another person in a white sleeveless top joins the frame. They engage in an interaction where the individual with braids uses their hands to gesture or communicate with the other person.",
+            "change_in_video_content": "The number of people increases from one to two. The new individual appears to interact with the first individual, leaning slightly against a wall, while the person with braids engages in visible gestures and movement.",
+            "continuation_in_video_background": "The indoor environment continues to be a home-like setting with familiar objects like household furniture, walls, and decor remaining visible. Lighting remains consistent, providing clear visibility.",
+            "change_in_video_background": "The scene shifts to include more of the room, revealing additional elements like a doorway leading to another space with furniture (a bookshelf, workout equipment) and objects like curtains and a yellow bag.",
+            "change_in_camera_angle": "The camera changes from a medium-close shot focusing on the upper body of one individual to a medium shot capturing the upper bodies of two individuals.",
+            "change_in_camera_movement": "The camera remains static in both clips but expands its focus to accommodate the second individual within the frame.\"\n}\n```"
+        }
+    ]
+}

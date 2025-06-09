@@ -1,0 +1,40 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A person wearing a red jacket and grey pants is depicted kneeling beside an Orbea road bike on a grassy outdoor area. The individual is interacting with a blue plastic bucket placed on the wooden deck nearby, submerging their hand into the bucket which contains water and a sponge. They then proceed to squeeze the sponge, appearing to use it for cleaning. The road bike, prominently featuring its brand name 'Orbea' and designed with red and black accents, is leaned against the grass next to the individual. The overall action revolves around the cleaning process, with the bike standing as the main subject. The backdrop features a lush, green landscape with visibly dense trees and faint outlines of buildings in the distance.",
+            "camera_angle": "The camera is positioned at a low-medium angle, capturing the subject kneeling and including the bike in frame.",
+            "camera_movement": "The camera remains stationary throughout the video without any evident panning, tilting, or zooming.",
+            "video_background": "The setting is an outdoor grassy hillside with a wooden deck. In the background, there are dense evergreen trees, a foggy sky, and distant buildings, suggesting a rural or mountainous area with natural scenery. The lighting is soft and natural, likely from overcast conditions.\"\n}\n```"
+        },
+        {
+            "video_content": "The video depicts a close-up shot of a black Orbea road bicycle frame with red and white accents being washed. A person's hand, clad in a jacket sleeve, moves rapidly back and forth across the bicycle's frame, scrubbing its surface with what appears to be a sponge or cleaning tool. The water and soap create splashes on the frame and surrounding area, and the lettering on the frame, reading 'ORBEA' and 'CONTINENTAL,' is clearly visible. The bicycle appears to be stationary on a grassy area, with droplets of water gliding down the frame due to the scrubbing motion. The scene focuses on cleaning the specific sections of the bicycle near the handlebars, front fork, and lower frame.",
+            "camera_angle": "The camera captures the scene from a close-up side angle, focusing directly on the bicycle frame and presenting the details of the action and components.",
+            "camera_movement": "There is no apparent camera movement. The camera maintains a steady focus on the bicycle's frame and the cleaning process.",
+            "video_background": "The background features a vibrant green grassy area and dense forest vegetation with trees blurred in the distance. The lighting is natural, possibly overcast, as there is no direct sunlight but an even distribution of light across the scene.\"\n}\n```"
+        },
+        {
+            "video_content": "The video focuses on a black bicycle's crankset, chain, and derailleur mechanism. The chain is positioned on the crankset teeth and connected to a derailleur arm that helps guide its movement. The crankset is made of polished black material, with defined edges and visible chain teeth. The rotating crank indicates motion, suggesting the bicycle's drivetrain is operational. The chain appears metallic, with a thin, taut structure. The text 'BEA' is visible on the black frame near the crankset. A person wearing a red sleeve passes through the scene briefly, partially obscuring the view, suggesting some interaction or adjustment. The grassy green background contrasts with the black and metallic components of the bicycle. The video is presented at normal speed, capturing the rotation of the crankset in regular motion.",
+            "camera_angle": "The camera is positioned at a close-up angle, capturing a tight view of the bicycle's drivetrain and derailleur mechanism.",
+            "camera_movement": "The camera remains stationary without any visible panning, tilting, or tracking movements.",
+            "video_background": "The background consists of a uniformly bright green grassy area, likely an outdoor environment, providing contrast to the dark mechanical components. Lighting is diffuse with no harsh shadows.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The cleaning process continues, shifting focus onto the black Orbea bicycle frame. The bike remains stationary. A hand, previously seen interacting with the cleaning bucket, now scrubs the bike frame using a sponge, concentrating on specific sections near the handlebars and lower frame.",
+            "change_in_video_content": "The perspective changes from including the individual kneeling beside the bike to a close-up view of the bicycle frame being scrubbed. The person is no longer fully visible; only their hand in a jacket sleeve is involved in the cleaning action.",
+            "continuation_in_video_background": "The grassy area, dense evergreen forest, and overcast lighting remain consistent.",
+            "change_in_video_background": "The close-up shot reduces the visibility of background elements, making them appear more blurred and less detailed compared to the wider view of the first clip.",
+            "change_in_camera_angle": "The angle shifts from a low-medium perspective capturing the person and the entire bike to a side close-up view focused exclusively on the bicycle frame.",
+            "change_in_camera_movement": "There is no evident movement in either clip, but the camera changes its focus from a wider framing to a stationary, detailed close-up.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The second clip continues with the focus on the black Orbea bicycle, transitioning from cleaning the frame in the first clip to showing the crankset, chain, and derailleur in the second clip. The chain is visibly on the crankset teeth, and the crank is rotating, indicating motion. Some interaction occurs as a person wearing a red sleeve briefly passes through the frame, partially obscuring the view for a moment. The crankset and chain mechanism remain central to the clip, emphasizing detailed visuals of the drivetrain components.",
+            "change_in_video_content": "The primary focus shifts from cleaning the frame sections near the handlebars, front fork, and lower frame to showcasing the operational drivetrain components, namely the crankset, chain, and derailleur. The active scrubbing action is replaced by the motion of the rotating crankset and chain interaction.",
+            "continuation_in_video_background": "The background remains consistent with a grassy green area and blurred trees, maintaining a natural, outdoor setting with no changes to the general visual context.",
+            "change_in_video_background": "No noticeable change in environmental elements or lighting is observed; the green grassy background and forest vegetation remain uniform between the clips.",
+            "change_in_camera_angle": "The camera perspective shifts from a close-up side view of the bicycle's frame to a close-up angle focused on the drivetrain and mechanical components near the crankset.",
+            "change_in_camera_movement": "The camera remains stationary in both clips, with no visible panning, tilting, tracking, or zoom adjustments occurring.\"\n}\n```"
+        }
+    ]
+}

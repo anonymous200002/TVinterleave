@@ -1,0 +1,40 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The video showcases a person engaged in singing or speaking into a microphone while wearing over-ear headphones. They are positioned indoors, with the microphone held close to their mouth using their right hand. The individual is dressed casually in a dark gray T-shirt and wears a thin metallic necklace. A black cap is visible, with the brim facing backward. The lighting in the scene is focused, accentuating the person's upper body and the microphone. A warm yellow light source is visible behind the subject, pointing directly toward the camera, creating a lens flare effect in certain moments. Additionally, there are faint patterns projected or reflected on the wall, which include silhouetted forms resembling leaves. The logo 'AUDIOTREE.tv' is prominently displayed in the bottom right corner of the frame throughout.",
+            "camera_angle": "The camera captures the person from a medium close-up perspective, focusing primarily on their upper torso and head.",
+            "camera_movement": "The camera appears stationary with slight adjustments to maintain focus on the subject, sometimes aligning with the microphone and capturing light sources in the background.",
+            "video_background": "The background is an indoor environment with dim lighting. It contains a mix of blurry elements such as abstract projections, dark walls, and neutral tones. A warm light fixture illuminates part of the scene, and faint shapes resembling leaves are visible on certain walls. The setting suggests a small, enclosed studio space.\"\n}\n```"
+        },
+        {
+            "video_content": "The video captures a musical performance in a studio setting. A musician wearing a dark-colored t-shirt and a backward cap is positioned near a microphone stand, actively singing or speaking into the microphone. The musician is also wearing large over-ear headphones, likely to monitor the audio. The musician occasionally brings their hands near the microphone, suggesting expressive gestures or adjustments to their grip during the performance. In the background, partially visible, another person appears to be playing an instrument, such as a guitar, contributing to the performance.",
+            "camera_angle": "The camera focuses on the musician from a medium-close shot, capturing their upper torso, the microphone stand, and parts of the background.",
+            "camera_movement": "The camera remains mostly static but occasionally adjusts slightly to maintain focus on the musician and their movements while performing.",
+            "video_background": "The background displays a dimly lit studio environment with dark walls and subtle light sources. There is a warm light shining behind the musician, creating soft backlighting. Part of the studio gear and elements, including a wall-mounted panel and possibly sound equipment, are faintly visible.\"\n}\n```"
+        },
+        {
+            "video_content": "The recording captures two musicians in a studio setting. The first individual is holding a teal electric guitar, wearing a grey t-shirt, and appears to be positioned near a microphone stand. His guitar has visible strings and knobs, characteristic of an electric guitar, and he is depicted interacting with his instrument and surroundings. The second individual is to the right of the frame, wearing a dark t-shirt, a cap turned backward, and studio headphones. He is standing in front of a microphone, likely indicating vocals or instrumental input. Both individuals are in proximity to professional audio recording equipment. The visuals include microphones with metallic finishes and cables connecting the devices. Branding in the form of \\\"Audiotree.tv\\\" is visible, signifying a possible affiliation or promotional aspect.",
+            "camera_angle": "The camera is primarily set at a medium shot angle, capturing both the musicians from their upper torso to slightly above their heads.",
+            "camera_movement": "The camera does not show significant movement, appearing static with minor adjustments to maintain focus on both musicians.",
+            "video_background": "The background features soft, shadowy projections of abstract patterns in blue and purple tones on the studio walls, contributing to the artistic ambiance. There is visible professional recording equipment, including a mixing console, a monitor, and shelves, creating a functional studio setting. Several light sources are visible, providing warm, diffused lighting. The Audiotree.tv logo is placed prominently in the bottom right corner.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The musician continues singing or speaking into the microphone while wearing over-ear headphones and a backward cap. They make occasional hand gestures near the microphone. Another person, partially visible in the background, is playing an instrument, contributing to the musical performance.",
+            "change_in_video_content": "A second person, partially visible, is introduced in the second clip, playing what appears to be a musical instrument such as a guitar, adding to the performance elements.",
+            "continuation_in_video_background": "The dimly lit studio environment with dark walls and subtle light sources persists. The warm backlighting and faint shapes resembling leaves maintain consistency between the two clips.",
+            "change_in_video_background": "Additional elements become visible in the second clip, such as the silhouette of another band member and parts of studio equipment, suggesting a broader view of the studio setup.",
+            "change_in_camera_angle": "The camera angle remains medium close-up but slightly adjusts to include parts of the background and the second musician in the frame.",
+            "change_in_camera_movement": "The camera adjusts focus and framing slightly to keep the main subject centered while incorporating the additional person and background details.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The second clip continues to showcase the studio performance, featuring the same individual wearing a dark t-shirt, backward cap, and headphones at the microphone. Another musician holding a teal electric guitar is now clearly visible and actively playing it.",
+            "change_in_video_content": "The second clip introduces a new visual of the guitarist wearing a grey t-shirt, holding and interacting with a teal electric guitar near another microphone stand.",
+            "continuation_in_video_background": "The second clip maintains the dimly lit studio environment with shadowy patterns on the walls and visible recording equipment.",
+            "change_in_video_background": "The second clip adds a more vivid display of blue and purple patterns on the walls and a visible light source that enhances the ambiance.",
+            "change_in_camera_angle": "The camera angle expands slightly to include both musicians from their torsos upward, compared to the primarily single-focus shot in the first clip.",
+            "change_in_camera_movement": "The camera in the second clip remains largely static, with adjustments to frame both musicians within the shot.\"\n}\n```"
+        }
+    ]
+}
