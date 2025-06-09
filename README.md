@@ -6,12 +6,10 @@ This part of the repository contains the core code for constructing the CI-VID d
 
 - **Functions**:
    - *clip_similarity_detection_and_segment*
- <small>
-   -  *clip_similarity_detection_and_segment*
-   -  *clip_seq_main_object_detection*
-   -  *clip_seq_single_annotation*
-   -  * clip_seq_joint_annotation*
- </small>
+   - *clip_seq_main_object_detection*
+   - *clip_seq_single_annotation*
+   - * clip_seq_joint_annotation*
+
 
 # 🗂️ Samples of CI-VID
 * 📁 **Provided Files**
