@@ -1,8 +1,8 @@
-# 🧩 CoI-VID Construction  
+# 🧩 CI-VID Construction  
 * 📁 **Provided Files**
   * <small>`CI-VID_construction_functions/`</small>
 
-This part of the repository contains the core code for constructing the CoI-VID dataset. Five key functions have been modularized to facilitate experimentation and integration into new workflows.
+This part of the repository contains the core code for constructing the CI-VID dataset. Five key functions have been modularized to facilitate experimentation and integration into new workflows.
 
 - **Functions**
 <small>
@@ -11,16 +11,16 @@ This part of the repository contains the core code for constructing the CoI-VID 
   -  *clip_seq_single_annotation*
   -  * clip_seq_joint_annotation*
    
-# 🗂️ Samples of CoI-VID
+# 🗂️ Samples of CI-VID
 * 📁 **Provided Files**
   * <small>`CI-VID_samples_for_visualization/`
     
-This part of the repository contains samples extracted from CoI-VID to better illustrate the dataset’s structure and characteristics.
+This part of the repository contains samples extracted from CI-VID to better illustrate the dataset’s structure and characteristics.
 
 
-# 📊 Quantitative Evaluation for CoI-VID
+# 📊 Quantitative Evaluation for CI-VID
 
-This part of the repository contains the quantitative evaluation resources for the CoI-VID dataset, including evaluation code, prompts, visualizations, and sample annotations. We provide three complementary evaluation approaches:
+This part of the repository contains the quantitative evaluation resources for the CI-VID dataset, including evaluation code, prompts, visualizations, and sample annotations. We provide three complementary evaluation approaches:
 
 ## 🔍 Overview
 
@@ -44,7 +44,7 @@ We propose three evaluation protocols:
 Human evaluation is based on 1,000 automatically generated prompts (Seeded with keywords from VBench), with each describing 6 scenes composing a coherent multi-scene narratives.
 
 
-- **Models Compared**: Baseline (trained on Emu3) vs Fine-tuned (further finetuned on CoI-VID).
+- **Models Compared**: Baseline (trained on Emu3) vs Fine-tuned (further finetuned on CI-VID).
 
 - **Examples**:
 <img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/130.jpg" border=0 width=70%>
@@ -142,7 +142,7 @@ We use the same prompts as human evaluation perform a VLM-based evaluation.
 | Model       | Style | Entity | Background | Perspective | Prompt Align | Visual |
 |-------------|-------|--------|------------|-------------|--------------|--------|
 | Baseline    | 3.07   | 2.84   | 2.80       | 3.02       | 3.99       | 3.25   |
-| **+CoI-VID** | **3.83** | **3.73** | **3.75** | **3.81** | **4.07** | 3.62  |
+| **+CI-VID** | **3.83** | **3.73** | **3.75** | **3.81** | **4.07** | 3.62  |
 
 ---
 
@@ -155,13 +155,13 @@ We use the same prompts as human evaluation perform a VLM-based evaluation.
   * <small>`similarity_evaluation/object_similarity_evaluation.py` → Code for computing similarity evaluation.
   * <small>`middle_frames.zip` → *Ground-truth middle frames for similarity evaluation. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/middle_frames_for_sim_eval.zip </small>  
   * <small>`rectangles.zip` → *Manually filtered object bounding boxes on ground-truth video frames for similarity evaluation. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/rectangles.zip </small>  
-  * <small>`CoI-VID_results.zip` → *Visualizations of results from the CoI-VID fine-tuned model. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/CoI-VID_sim_results.zip </small>  
+  * <small>`CI-VID_results.zip` → *Visualizations of results from the CI-VID fine-tuned model. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/CI-VID_sim_results.zip </small>  
   * <small>`observation_for_object_similarity_data.zip` → *Visual observation files for similarity-based evaluation data. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/observation_for_object_similarity_data.zip </small>  
 
 ---
 
 
-We construct a similarity-based evaluation dataset based on CoI-VID data. To avoid data leakage, all test data and data from the same source videos are excluded from the CoI-VID training set. This evaluation compares the similarity between the generated and ground-truth videos at both the **global** and **object** levels.
+We construct a similarity-based evaluation dataset based on CI-VID data. To avoid data leakage, all test data and data from the same source videos are excluded from the CI-VID training set. This evaluation compares the similarity between the generated and ground-truth videos at both the **global** and **object** levels.
 
 ---
 
@@ -194,7 +194,7 @@ We construct a similarity-based evaluation dataset based on CoI-VID data. To avo
 | Model       | CLIP ↑ | 1-LPIPS ↑ | SSIM ↑ | CLIP (Obj) ↑ | 1-LPIPS (Obj) ↑ | SSIM (Obj) ↑ |
 |-------------|--------|-----------|--------|--------------|------------------|--------------|
 | Baseline    | 0.512  | 0.309     | 0.199  | 0.601        | 0.360           | 0.278        |
-| **+CoI-VID** | **0.670**  | **0.381**     | **0.272**  | **0.702**        | **0.412**           | **0.391**        |
+| **+CI-VID** | **0.670**  | **0.381**     | **0.272**  | **0.702**        | **0.412**           | **0.391**        |
 
 
 ---
