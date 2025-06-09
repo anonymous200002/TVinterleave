@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The video shows a vacuum cleaner being operated on a wooden floor. A person, visible from the first-person perspective, is holding and maneuvering a cordless stick vacuum cleaner. The vacuum has a modern design with a display screen and buttons on its handle. The hand holding it is covered in a light beige knit sweater. The person's legs, dressed in dark navy leggings, are partially visible, along with their white athletic shoes with black accents, which are stepping forward as the vacuum is moved. The vacuum head effectively glides over the light brown wooden floor, creating clear paths as it is pushed forward. Nearby, a piece of furniture, resembling a dark grey cabinet with brass handles, stands to the left, holding some items like a decorative plate and papers. A black reusable bag is placed on the floor next to the cabinet. On the right side of the frame, a part of a metal pet crate and a red shopping bag with the word 'good' printed on it can be seen, partially outside the main focus area. The action proceeds smoothly as the vacuum cleaner is continuously pushed back and forth in cleaning motions.",
+            "camera_angle": "The camera captures the action from a first-person perspective, focusing on the vacuum cleaner and the immediate surroundings.",
+            "camera_movement": "The camera follows slight forward and backward movements, mimicking the operator’s hand motions as they move the vacuum cleaner along the floor.",
+            "video_background": "The background includes a wooden floor with a warm, natural finish, a dark grey cabinet holding household items, a black reusable bag on the floor, a metal pet crate, and a red shopping bag with the text 'good.' The lighting is consistent and bright, likely from indoor artificial lights.\"\n}\n```"
+        },
+        {
+            "video_content": "A woman wearing dark leggings and white sneakers is vacuuming a wooden floor inside a modern home. She is holding a cordless vacuum cleaner with a silver metallic body and moving it purposefully across the floor. The vacuum's cleaning head is seen flat against the floor and is being guided to different areas of the room. Her movements are dynamic and appear to indicate a cleaning activity. In the background, there is a green cabinet with multiple drawers and doors, topped with decorative items such as a lamp, a circular mirror, and a vase with green foliage. On the right side, a closed white door with frosted glass panels is visible, next to which a black shopping bag with the text 'NEptune' is placed. To the left, part of an archway leading to a kitchen area is discernible, with a dining table and chairs partially in view.",
+            "camera_angle": "The camera angle is positioned low and close to the ground, offering a perspective that emphasizes the wooden floor and the vacuum cleaner's cleaning path.",
+            "camera_movement": "The camera remains static without any noticeable panning, tilting, or zooming, capturing the subject's movements entirely within the fixed frame.",
+            "video_background": "The background includes a clean indoor environment with bright natural light streaming in from the left. The modern design features a green cabinet, decorative household items, and a frosted glass door that reflects bluish light. The wooden floor is polished, showing a smooth texture.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The action of vacuuming continues with the cordless vacuum cleaner in operation, removing dirt from the wooden floor. The vacuum cleaning task, involving steady movements, remains consistent between the clips.",
+            "change_in_video_content": "The perspective shifts to include a full view of the person vacuuming, revealing a woman wearing a beige sweater, dark leggings, and white sneakers. The surrounding environment adds new visual elements, such as a green cabinet with decorative items, a frosted glass door, and part of a dining area.",
+            "continuation_in_video_background": "The wooden floor, a piece of furniture (now green instead of grey), and household items form the backdrop for the continued vacuuming activity.",
+            "change_in_video_background": "The dark grey cabinet is replaced with a green cabinet. The visible additional features include a frosted glass door, light streaming through, and a partial view of a kitchen and dining area.",
+            "change_in_camera_angle": "The camera angle transitions from a first-person perspective to a low ground-level view, emphasizing the floor and the vacuum cleaner's path.",
+            "change_in_camera_movement": "The camera changes from slight forward and backward motions to a static position with no panning, tilting, or tracking.\"\n}\n```"
+        }
+    ]
+}

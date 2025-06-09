@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A small, dark brown spider is moving on a rough stone surface. A human hand, positioned close to the spider, appears to be gently guiding or interacting with it. The hand is palm-down, fingers slightly spread, allowing for a comparison of the spider’s size relative to the hand. The spider seems alert and is actively maneuvering its legs. The details of the hand, including skin texture and fingernails, are visible, adding a scale to the encounter. The interaction seems cautious and measured, indicating a focus on observing the spider closely without causing harm.",
+            "camera_angle": "The camera is at a close-up angle, capturing the spider and hand from above, emphasizing the details of both subjects.",
+            "camera_movement": "There appears to be minimal camera movement, possibly maintaining a steady focus on the spider and hand interaction.",
+            "video_background": "The background is a textured stone surface, varying in color with patches of darker and lighter areas. The lighting is natural, highlighting the details on the stone and the subjects in the foreground. The setting gives a sense of being outdoors, possibly in a natural or rocky environment.\"\n}\n```"
+        },
+        {
+            "video_content": "A small, dark-colored tarantula is on a rough surface, possibly a rock or a path. A person wearing a blue shirt, a bandana around their neck, and brown pants is kneeling close to the tarantula. This person is handling a transparent plastic container and is preparing to use it, perhaps to capture or observe the tarantula. They are also holding a pair of tweezers. Their attention is fully focused on the tarantula. To the right, a grey backpack with a carabiner attached is placed on the ground. The tarantula, identifiable by its compact body and eight legs, is situated near small divots in the rock, possibly holes or natural indentations. The setting is outdoors, possibly in a forest or woodland, evidenced by leaves and tree branches surrounding the area. Lighting indicates it might be early evening or dusk as there are subtle shadows and dark areas in the surroundings.",
+            "camera_angle": "The camera is positioned at a low angle, capturing both the individual and the tarantula from the side, focusing primarily on the main subject.",
+            "camera_movement": "There is a stationary shot that holds focus on the individual and the tarantula, allowing viewers to observe their interaction closely.",
+            "video_background": "The background shows fallen leaves and branches, suggesting a natural, perhaps wooded, environment. The lighting is moderate, with shadows indicating low light conditions, typical of early evening time. A grey backpack rests on the ground behind, enhancing the outdoor, expedition-like atmosphere."
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The continuation of video content involves a human figure closely observing a small, dark-colored tarantula. The individual is using a transparent plastic container likely for capturing or observing the spider, with a close presence of this container and tweezers in hand. The vegetation and ground appear consistent, maintaining the same rough surface and textured stone environment observed earlier. The character's focus remains on the spider.",
+            "change_in_video_content": "The scene transitions from a simple interaction between a spider and a human hand to an involved close-up examination featuring a human figure in a blue shirt with additional equipment including a container and tweezers. The individual is engaged in handling tasks rather than mere observation, introducing more elements such as the person's attire and equipment.",
+            "continuation_in_video_background": "The environmental setting continues to display rough, textured stone surfaces.",
+            "change_in_video_background": "The background in the second scene includes more defined elements, such as fallen leaves, branches, and a grey backpack, suggesting a shift from a plain stone surface to a more wooded area.",
+            "change_in_camera_angle": "The camera shifts from an overhead, close-up angle to a low, side view capturing both the individual and the tarantula, offering a wider field of view.",
+            "change_in_camera_movement": "There is a transition from minimal movement focusing tightly on the hand to a stationary low-angle shot that captures the broader interaction between the person and tarantula.\"\n}\n```"
+        }
+    ]
+}

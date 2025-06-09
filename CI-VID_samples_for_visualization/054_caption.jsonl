@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The scene takes place in a lively nightclub with dim lighting accented by colorful neon lights in red, blue, and green hues. Two individuals, viewed from behind, walk through a crowded area filled with people who are dancing, drinking, and socializing. The individuals appear to be navigating the club space, surrounded by a bustling crowd engaged in festive activities. Various patrons hold drinks, and the ambiance is characterized by energetic motion. The setting is vibrant, emphasizing a nightlife environment with vivid neon lighting and celebratory undertones. Text visible on the screen mentions 'ÉLITE' and 'Omar & Ander,' possibly referencing a title or segment of the content.",
+            "camera_angle": "The camera captures the subjects from a rear perspective, focusing on their upper bodies as they move through the crowded nightclub.",
+            "camera_movement": "The camera follows the movement of the two characters, maintaining a tracking shot that moves smoothly as they proceed through the crowd.",
+            "video_background": "The background features a busy nightclub environment. Bright, colorful neon lights in red, blue, green, and orange tones illuminate the space. The crowd consists of people engaged in dancing and social activities. The setting includes flashing lights, scattered neon signs, and reflections, contributing to the atmosphere of a dynamic and vibrant nightlife.\"\n}\n```"
+        },
+        {
+            "video_content": "Two individuals engage in a close conversation in a crowded and vibrant nightclub setting. The lighting is characterized by lively and colorful neon hues, primarily blue, green, and red, creating a dynamic and energetic atmosphere. One individual holds the other by the shoulder with a visible hand that has a ring, indicating a sense of earnestness or intimacy in the conversation. Subtitles provide dialogue between the characters, with one expressing dissatisfaction and frustration with their responsibilities, mentioning they have had enough of a store and their father, suggesting a personal conflict. The surrounding area features a crowd of people, some dancing or talking, under bright and scattered artificial lighting.",
+            "camera_angle": "The camera is placed at shoulder to head height, capturing the subjects in a mid-shot that centers on their interaction while slightly blurring the background.",
+            "camera_movement": "The camera remains steady but occasionally shifts slightly to follow the characters’ movements, maintaining focus on their interaction while keeping the vibrant background visible.",
+            "video_background": "The background shows a colorful nightclub filled with neon lights and moving crowds. Bright, diffused lights illuminate the environment, reflecting off various surfaces. The surrounding space includes scattered people dancing or conversing, with a mix of vibrant and dimly lit areas and abstract patterns created by lighting effects.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The two individuals seen walking in the first clip are now shown in a closer interaction, engaging in a conversation. One individual places a hand on the other's shoulder during the talk, while subtitles display dialogue addressing personal dissatisfaction related to responsibilities involving a store and a father. The scene maintains its nightclub setting surrounded by a lively crowd.",
+            "change_in_video_content": "The focus shifts from the characters navigating through the crowd to their direct, interpersonal interaction. The action transitions from movement through a space to stationary dialogue between the two characters, emphasizing emotional and physical closeness.",
+            "continuation_in_video_background": "The background remains a vibrant nightclub with scattered patrons, neon lighting in blue, green, and red tones, and a festive environment.",
+            "change_in_video_background": "The visibility of the crowd and background elements lessens as the focus shifts to the two characters, with slightly blurred surroundings maintaining the nightclub elements.",
+            "change_in_camera_angle": "The camera changes from a rear perspective to a mid-shot, framing both characters at shoulder-to-head level to emphasize the conversation.",
+            "change_in_camera_movement": "The movement transitions from a tracking shot following the characters to a steady frame, with occasional minor adjustments to retain focus on their interaction.\"\n}\n```"
+        }
+    ]
+}

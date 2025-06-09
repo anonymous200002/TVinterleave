@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The sequence captures a baseball game where the main focus is on a player wearing a blue Texas Rangers jersey. The player is shown energetically running across the field, presumably after hitting a home run. He is seen pumping his fists in a celebratory manner, showcasing excitement and achievement. The player is wearing a blue helmet and batting gloves and has 'TEXAS' emblazoned across his chest in large white letters. As the player progresses around the bases, another team member, also wearing a blue jersey with the name 'BEASLEY' and the number '27' on the back, approaches to offer a congratulatory handshake or high-five. Spectators can be seen in the background, seated and observing the game. Displayed text states, 'ELVIS ANDRUS 4th HOME RUN THIS SEASON,' indicating the player's identity and accomplishments during the season. This suggests a significant highlight in the game celebrated by both the player and the audience.",
+            "camera_angle": "The camera captures the player from a low to mid-level angle, providing a view that follows his motion across the field and highlights the player's jersey.",
+            "camera_movement": "The camera employs a tracking shot, maintaining the player in focus as he moves, while smoothly panning to keep up with his speed and movement across the field.",
+            "video_background": "The backdrop features a baseball stadium with a prominently displayed advertisement board for companies like Budweiser and Hyundai. The stands are partially filled with spectators, some standing, possibly cheering or taking photos. The stadium lights are on, suggesting an evening or night game setting, providing sufficient illumination for clear visibility."
+        },
+        {
+            "video_content": "A baseball player, identified as Elvis Andrus, is seen running towards home plate after hitting a home run. He is wearing a blue jersey with white pants and is energetically jogging along the baseline. As he approaches home plate, he steps on it with his right foot while extending his right arm upwards. Teammates wearing matching uniforms gather around to celebrate, exchanging high-fives and showing signs of enthusiasm and congratulation. The scoreboard indicates that the Texas team is leading with a score of 10-2 against Oakland in the 6th inning with 2 outs. The atmosphere suggests a joyous moment for the team as they revel in the player's achievement.",
+            "camera_angle": "The camera angle is at ground level, capturing the player from a slightly upward perspective as he runs towards home plate.",
+            "camera_movement": "The camera maintains a steady focus on the player, tracking his movement as he approaches home plate without panning or zooming.",
+            "video_background": "The background shows a well-lit baseball stadium at night, with bright stadium lights and a large electronic display screen. The stands appear filled with spectators, adding context to the sporting event. The field is well-manicured, typical of professional baseball settings.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The player, Elvis Andrus, continues his run towards home base and energetically steps on home plate. His teammates gather to celebrate, offering high-fives. The scoreboard shows Texas is leading 10-2 against Oakland in the 6th inning with 2 outs.",
+            "change_in_video_content": "The focus shifts from the player's run to the celebration with teammates at home plate, and the scoreboard is highlighted. An opposing player and an umpire are also visible, signifying a concluded play.",
+            "continuation_in_video_background": "The well-lit stadium and filled stands continue to be visible, maintaining the night game setting.",
+            "change_in_video_background": "A large electronic display screen becomes prominent, showing game details, and the manicured field is shown close to home plate.",
+            "change_in_camera_angle": "The camera shifts to ground level, capturing the player from a slightly upward perspective as he reaches home plate.",
+            "change_in_camera_movement": "The camera transitions to a fixed position at home plate, maintaining a steady focus as the player approaches and interacts with teammates.\"\n}\n```"
+        }
+    ]
+}

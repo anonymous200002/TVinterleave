@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A man in a mustard yellow t-shirt is in a dimly lit room. The t-shirt has a visible black microphone clipped to it near the collar. The man is facing the camera directly and appears to be speaking or addressing the camera. Behind him, there is a large, bright studio light positioned to the left side, casting a strong illumination that contrasts with the darker background. His posture is slightly leaning forward with his arms resting on a surface, suggesting he is possibly engaging in a conversation or presentation. The surroundings are mostly dark, indicating that the focus is meant to be on him and the light setup is intentional to highlight his presence.",
+            "camera_angle": "The camera is positioned at eye level, capturing the man from a slightly elevated and frontal perspective.",
+            "camera_movement": "There is no noticeable camera movement, indicating a static shot focused on the subject.",
+            "video_background": "The room is dimly lit with dark-colored walls, providing a simple and unobtrusive background. The studio light is bright, creating a stark contrast with the surroundings. The focus is primarily on the man, with the light casting shadows on the background."
+        },
+        {
+            "video_content": "Two individuals are inside a room with wooden paneling on the walls. The first person, wearing a yellow t-shirt with the letters 'GMBN', is seen bending forward slightly. His head is shaved and he has a beard. Attached to the front of his shirt is a black clip-on microphone. The second individual, wearing a gray long-sleeve shirt with 'EMBN' printed in white letters, appears to be in the background and is focused on an activity involving a silver-and-black blender bottle. Both individuals are engaged in an ongoing interaction or task. On the wall behind them are posters, one with the word 'LENZERHEIDE' written on it, and another depicting a diagram or map. A small table with potted plants and a book is visible beneath the wall decorations.",
+            "camera_angle": "The camera captures the scene from the front, slightly lower than eye-level, focusing closely on the individuals.",
+            "camera_movement": "The camera remains stable without any noticeable panning, tilting, or zooming throughout the duration.",
+            "video_background": "The room has a cozy, indoor environment with wood-paneled walls in a diagonal pattern, giving a rustic feel. Lighting is moderate, mostly diffused from overhead, with an additional bright light source coming from the left side. Various decorative elements are present, such as posters, potted plants, and books, enhancing the detailed setting of the workspace."
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The man in the mustard yellow t-shirt continues to play a central role in the narrative, as he is now observed inside a room with wooden paneling working alongside another individual. Their interaction suggests collaboration or joint task involvement, characterized by the presence of props like a blender bottle. Both individuals maintain active involvement in their task, with slight modifications to their environment hinting at an ongoing series.",
+            "change_in_video_content": "The scene transitions from a dimly lit room to a brighter setting with wooden paneling, where the man now interacts with another person wearing a gray shirt. The focus shifts from an individual speaking to a collective engagement with objects like the blender bottle, adjusting from monologue to collaborative task.",
+            "continuation_in_video_background": "The video remains indoors, maintaining a controlled setting.",
+            "change_in_video_background": "The backdrop changes from dark-colored walls to wood-paneled surroundings with posters and a small table, adding details like potted plants and books.",
+            "change_in_camera_angle": "The camera angle shifts from slightly elevated and frontal to slightly lower than eye-level.",
+            "change_in_camera_movement": "The camera remains static throughout both clips, maintaining stability without any noticeable movement changes."
+        }
+    ]
+}

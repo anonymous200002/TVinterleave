@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A baseball game is underway in a large stadium. The focus is on a player in a blue uniform running toward the outfield to catch a baseball. The background shows a crowd of spectators seated in the stands. The scoreboard displays the game score as Oakland 4, Texas 10. During the action, the player successfully retrieves the ball and attempts to make a throw. The camera then transitions to another player wearing a green and yellow uniform running toward the base, indicating an ongoing play. Visible expressions and reactions from players and audience members suggest a dynamic game environment.",
+            "camera_angle": "The camera is positioned at a high angle, capturing a wide view of the field and stands, then shifts to a closer, ground-level perspective.",
+            "camera_movement": "Initial zoom out to capture a broad view, followed by panning movement to track the player's run. Close-up tracking the catch and the other player's run.",
+            "video_background": "The background is a baseball stadium with bright lights illuminating the field. The stands are partially filled with fans wearing team colors. Advertisement boards surround the field. The grassy field and clay track are clearly visible, adding context to the sporting environment.\"\n}\n```"
+        },
+        {
+            "video_content": "The video shows a moment during a baseball game with three significant figures in view. The first is a baseball player wearing a green jersey with yellow accents, a helmet marked with an 'A', and gloves. He is engaged in conversation with another player in a blue jersey that reads 'TEXAS', suggesting a Texas team. This second player also wears a blue cap and sunglasses. Both players appear to be standing on the field, possibly at a base, and are interacting calmly. A third individual, likely an umpire, is partially visible and dressed in black, positioned closer to the camera. The scoreboard indicates that the game is in the 7th inning, with the Texas team leading 10 to 5 against the Oakland team, shown by 'OAK'. The display reads 'Leclerc' with pitching statistics, revealing this as a sports broadcast.",
+            "camera_angle": "The camera captures the scene from a slightly low angle, focusing on the players at eye level, zooming in on them.",
+            "camera_movement": "The camera remains steady without noticeable movement or zoom, maintaining focus on the players throughout.",
+            "video_background": "The setting is a baseball stadium. Visible are blurred spectators in the stands with a few wearing red shirts, highlighting a typical sports event environment. The area is well-lit, indicating a nighttime game under stadium lights. The scoreboard numbers visible add to the context of a live sports broadcast.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The sequence progresses from a player in a blue jersey recovering the ball in the outfield to a scene with two players interacting at a base: one in a green and yellow jersey, the other in a blue jersey. An official in black stands nearby. The scoreboard updates, reflecting the score change to 10-5. Leclerc is noted for his pitching. The transition from field action to a base interaction suggests continuity within the inning.",
+            "change_in_video_content": "The primary action transitions from a dynamic running and catching sequence in the outfield to a more static scene at a base with focused conversation between players and an official presence. Scoreboard details shift to a Leclerc pitching update.",
+            "continuation_in_video_background": "The setting remains a baseball stadium, with brightly lit playing areas under stadium lights.",
+            "change_in_video_background": "There is a shift from a broad view of stands and field to a tighter focus on individual figures on the field and blurred backgrounds.",
+            "change_in_camera_angle": "The angle moves from high and wide to a closer eye-level perspective at the base.",
+            "change_in_camera_movement": "Camera movement transitions from panning and zooming out in the field to a steady focus on stationary figures.\"\n}\n```"
+        }
+    ]
+}

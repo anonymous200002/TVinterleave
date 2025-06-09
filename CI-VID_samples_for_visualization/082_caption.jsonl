@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A person is holding a clear plastic container that contains a black spider. In the beginning, they are carefully examining the spider through the transparent container. The spider, with its distinctive black coloration and prominent legs, is clearly visible. The person adjusts the container slightly, allowing a better view of the spider inside. As the video progresses, the container is tilted, and the spider begins to move towards the open end. Eventually, the spider exits the container, touching down onto a textured, rocky surface. The person assists in this process by gently tilting the container further, enabling the spider's cautious descent from the container to the ground.",
+            "camera_angle": "The camera is positioned to focus closely on the plastic container and the spider within it, providing a clear view of the subject.",
+            "camera_movement": "The camera remains steady, with slight adjustments to maintain the focus on the container's opening and the spider's movement.",
+            "video_background": "The background is a blurred, dark environment with some indistinct elements. The primary focus is on the illuminated container and spider, contrasting with the darker surroundings. The lighting is focused on the main subject, ensuring clarity.\"\n}\n```"
+        },
+        {
+            "video_content": "The video starts with a close-up view of a dark brown spider moving slowly along a rough, textured surface. The spider's body and legs are clearly visible against the background. Gradually, a transparent plastic container is placed over the spider, capturing it underneath. The container is clear, allowing the spider to be seen through it. Finally, the video shows a man crouched down, wearing outdoor attire, which includes a blue shirt, a beige scarf, and a dark vest. He is looking attentively at the container, indicating an interaction with the captured spider. The man has a beard and his expression suggests focus and attentiveness.",
+            "camera_angle": "The camera captures the scene from a low angle, providing a close-up perspective of the spider and the action, later moving to show the man from slightly above.",
+            "camera_movement": "The camera remains mostly static with slight adjustments to maintain focus on the spider and container, subtly tilting upwards as the man appears in the scene.",
+            "video_background": "The background features a rugged, outdoor surface with natural textures. The lighting is bright, highlighting the surface details and casting soft shadows. The setting appears to be outdoors, possibly in a natural environment or a garden, enhancing the focus on the spider and the interaction.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "In the first clip, the person assists the spider's exit from a clear container onto a rocky surface. The second clip begins with another spider moving on the surface, soon captured under a container. A man wearing outdoor attire is then seen closely observing the container.",
+            "change_in_video_content": "The second clip introduces a man wearing a blue shirt, a beige scarf, and a dark vest. It focuses more on his interaction with the spider, capturing it rather than releasing it.",
+            "continuation_in_video_background": "Both clips feature a textured, rocky surface as the primary background element.",
+            "change_in_video_background": "The second clip depicts a rugged, outdoor setting with natural elements and bright lighting, unlike the darker, blurred environment of the first clip.",
+            "change_in_camera_angle": "The second clip initially uses a low angle, then shifts to a slightly elevated angle to include the man in the frame.",
+            "change_in_camera_movement": "The camera is mostly static in both clips, but the second clip includes an upward tilt when the man appears.\"\n}\n```"
+        }
+    ]
+}

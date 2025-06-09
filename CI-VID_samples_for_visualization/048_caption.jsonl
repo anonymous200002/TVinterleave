@@ -1,0 +1,40 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The baseball game features a live action moment where a player from the Oakland Athletics team is running in the outfield to catch a ball. The player is wearing a black jersey with gray pants and is moving at a fast pace towards the ball, which is rolling on the grass. The focus is on the dynamic motion as the player positions himself to pick up the ball. The scoreboard reveals the current state of the game between the Athletics (OAK) and the Texas Rangers (TEX), with the score being 2-3 in favor of Texas. The 5th inning is underway with one out and a 1-0 count. Several brand advertisements are visible along the outfield walls, including Southwest and T-Mobile. A few spectators are present in the stands, observing the game.",
+            "camera_angle": "The perspective captures a wide view from an elevated position, providing a clear look at the field, players, and the background advertisements.",
+            "camera_movement": "The camera appears to be panning slightly to the left, following the movement of the player as he runs towards the baseball.",
+            "video_background": "The setting is a baseball stadium with advertisements lining the outfield walls. The scoreboard is lit and visible, showing game details. The lighting is bright, indicating an evening or nighttime game. The stands have sparse spectators.\"\n}\n```"
+        },
+        {
+            "video_content": "A baseball game is in progress. A player in a blue uniform with the number 17, representing the Texas team, is seen running at high speed towards a base. An umpire dressed in black is present nearby. The player slides skillfully to reach the base as the crowd watches intently. His uniform shows signs of dirt from the slide. The scoreboard indicates Oakland (OAK) has 2 runs, while Texas (TEX) has 3. It's the fifth inning, and there is one out. Two runners are on base, as depicted by the filled diamond icons on the scoreboard in the lower right corner.",
+            "camera_angle": "The camera is positioned at a low angle, capturing the side view of the player running and sliding towards the base.",
+            "camera_movement": "The camera follows the player in a smooth, lateral pan as he runs, capturing the action seamlessly without zooming in or out.",
+            "video_background": "The field is surrounded by spectators seated in the stands, creating a lively atmosphere. Advertisements from brands like Dr Pepper are visible along the side barriers. The lighting is bright, suggesting a day or early evening game.\"\n}\n```"
+        },
+        {
+            "video_content": "The video captures a baseball player in the middle of a game, who is wearing a blue jersey with 'TEXAS' printed in white and red across the front. The player is seen confidently standing at the plate, wielding a bat with a relaxed grip. He wears a baseball helmet adorned with a logo, integrated into a defensive setup at the fifth inning, with the score at 3-2 favoring Texas over Oakland, indicated by the screen graphics. The player is seen adjusting his batting gloves, showcasing a routine common among professionals as they prepare for a potentially pivotal play. Also presented is a game status graphic, displaying 'Montas' in the pitching position with 69 pitches recorded so far.",
+            "camera_angle": "The camera focuses tightly on the player's upper body, maintaining a slightly elevated angle that emphasizes the player's form and posture while at bat.",
+            "camera_movement": "The viewpoint is steady with no noticeable panning or tilting, maintaining a fixed zoom on the player. The focus remains sharp throughout, highlighting the player's actions and jersey details.",
+            "video_background": "The background consists of a blurred view of the baseball stadium with indistinct spectators in red attire, which suggests a crowded game. The area is well-lit, enabling clear visibility of the ongoing match. There are out-of-focus elements that indicate movement and indirect illumination, contrasting the sharpness of the player in the foreground."
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The action transitions from the Oakland player running to catch the ball to a Texas player running towards a base. The focus shifts from fielding to baserunning. Both scenarios occur during the same inning and reflect the ongoing competitive game. The scoreboard remains consistent, showing the Texas team in the lead. The Texas player's sliding attempt adds action similar to the Oakland player’s dynamic motion in the outfield.",
+            "change_in_video_content": "The player changes from an Oakland outfielder to a Texas baserunner, and the action shifts from fielding a ball to sliding into a base. The Oakland player's attire is black and gray, while the Texas player's is blue. Dirt on the Texas player’s uniform shows physical engagement different from the rolling ball scene in the first clip.",
+            "continuation_in_video_background": "The baseball stadium is the constant setting.",
+            "change_in_video_background": "The number of spectators visibly increases, and different advertisements like Dr Pepper are now prominent.",
+            "change_in_camera_angle": "The angle shifts from a wide elevated view to a low side view.",
+            "change_in_camera_movement": "The movement transitions from a leftward pan to a smooth lateral pan following the runner.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The baseball game continues with the Texas team still in the lead over Oakland with the score at 3-2. The video captures a Texas player confidently standing at the plate, preparing for his turn at bat, signaling possible continuity in offensive plays.",
+            "change_in_video_content": "The focus shifts from a player sliding into a base to another player standing at the plate, adjusting batting gloves, implying a transition from base-running action to batting preparation.",
+            "continuation_in_video_background": "The stadium remains filled with spectators wearing colorful attire, maintaining a lively game setting.",
+            "change_in_video_background": "The background shifts to a blurred view of the stadium, highlighting the player with less emphasis on spectators.",
+            "change_in_camera_angle": "The angle changes from a low side view of the runner to a slightly elevated, close-up view of the batter.",
+            "change_in_camera_movement": "There is a shift from smooth lateral panning to a fixed, steady focus on the player's upper body with no movement."
+        }
+    ]
+}

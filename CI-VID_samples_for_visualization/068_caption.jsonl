@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A person is dressed in a blue cycling jersey with a prominent 'GTN' logo. They are engaged in an activity that involves leaning forward, likely cycling, as evidenced by the posture and attire. Surrounding them are various posters and decorations related to cycling, as well as technical equipment on the walls. There is visible perspiration on the individual, indicating a vigorous activity. This setting suggests an indoor cycling studio, possibly focusing on triathlon or cycling training, given the 'GCN Tech' logo prominently displayed in the background, alongside motivational cycling imagery.",
+            "camera_angle": "The camera is positioned at eye-level facing the individual, capturing their upper half and the background thoroughly.",
+            "camera_movement": "The camera maintains a stationary position with no noticeable panning, tilting, or zooming, focusing steadily on the subject.",
+            "video_background": "The backdrop consists of a brick wall adorned with cycling-related posters and a 'GCN Tech' logo. To the left, there are cycling tools and a bright light source, suggesting a specialized indoor space for cycling activities.\"\n}\n```"
+        },
+        {
+            "video_content": "A person is engaging with an indoor cycling exercise on a stationary bicycle. The individual is wearing a turquoise cycling jersey with the logo 'GTN Global Triathlon Network' prominently displayed on the right sleeve. The person appears to be leaning forward, focused on the cycling activity. The handlebars of the red bike are visible, indicating that they are in use. The lighting is consistent, suggesting an indoor setting.",
+            "camera_angle": "The camera captures the individual from a side angle at shoulder height, focusing on the upper body and bicycle.",
+            "camera_movement": "There is no noticeable camera movement; the shot remains steady, capturing the subject in clear focus.",
+            "video_background": "The setting is clearly indoors, characterized by an organized environment with soundproof tiles on the wall and a wooden panel lining. A television is mounted on the brick wall, adding to the modern, fitness-focused ambiance. The space is well-lit, providing optimal visibility for the cycling exercise.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The first clip showcases a person engaged intensely in indoor cycling, with 'GTN' branding on their blue cycling jersey and visible perspiration, indicating vigorous activity. This setting is consistent with a cycling studio environment. The second clip continues with the indoor cycling theme, depicting the individual wearing a turquoise GTN jersey, focusing on a stationary bike, with visible handlebars. The person remains involved in the cycling exercise, maintaining posture and pace as previously seen.",
+            "change_in_video_content": "The most notable change between the clips is the angle and visible detail of the bicycle itself, with handlebars becoming a central visual element in the second clip, indicating active use of the bike.",
+            "continuation_in_video_background": "The indoor environment is consistent between clips, marked by organized cycling-related backdrops.",
+            "change_in_video_background": "The second clip introduces soundproof tiles and a wooden panel lining, along with a visible television, replacing the GCN Tech logo from the first clip.",
+            "change_in_camera_angle": "The camera angle shifts from an eye-level frontal view to a shoulder-height side angle focusing on the bike in the second clip.",
+            "change_in_camera_movement": "There is no noticeable change in camera movement; it remains steady in both clips."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "In a modern office setting, individuals are engaged in a casual interaction. One person, wearing a dark sweater, is seen carrying two cardboard boxes, marked with a design featuring the letters 'OA', through the workspace. They approach another person seated at a desk. The two engage in a brief exchange where the individual carrying the boxes slightly adjusts their hold on them, while the seated person observes and readies to assist or engage in further conversation. The workspace is equipped with several desks, each having multiple monitors, suggesting a tech-centric environment. There are various office supplies and personal items scattered across the desks, indicating a typical workday setting. During the interaction, the dialogue appears friendly and relaxed, as seen from their gestures and body language.",
+            "camera_angle": "The main view captures a side angle focusing on the standing individual facing the seated person, centered around the desk area.",
+            "camera_movement": "The camera appears to be stationary, maintaining a consistent focus on the two people in the office during their interaction.",
+            "video_background": "The setting is a contemporary office with open-plan seating. The environment is well-lit with natural light streaming through large windows. Numerous computer monitors and office essentials populate the desks, and a coat rack is visible in the backdrop. The space is organized yet lively, reflecting a dynamic work atmosphere."
+        },
+        {
+            "video_content": "A woman with long brown hair, wearing a black sweater, is seated at a white office table. Her fingernails are painted with orange nail polish, and she wears a silver ring on her middle finger. She is handling two beige-colored boxes branded with 'on', stacked on top of each other. Her hands clutch the boxes as she gradually pushes them towards the edge of the table, indicating action involving moving items. The setting is a bright, modern office environment with visible workstations, computers, and various objects, including a green reusable coffee cup, a clear bottle with a white lid labeled 'STANLEY', and a monitor. The sequence captures the process as she gradually and deliberately guides the boxes from one end of the table to another, emphasizing interaction with the objects around her.",
+            "camera_angle": "The camera is positioned from a side view, capturing the woman and the table's surface in a medium shot.",
+            "camera_movement": "There are no significant camera movements such as panning or tilting, maintaining a steady focus on the woman's actions and the table.",
+            "video_background": "The office is well-lit with natural light filtering through large windows. Several computer monitors and office objects are visible, creating a professional working atmosphere. A coat is hung on the wall structure, adding to the casual office setting. The overall ambiance is bright and open, suggesting a typical working day in a contemporary office environment.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The interaction between individuals in the office evolves as the woman at the table continues handling the boxes marked with 'on'. She shifts these boxes towards the table's edge, suggesting preparatory action for either storage or transfer. This mirrors the earlier movement of carrying boxes across the workspace.",
+            "change_in_video_content": "The individual from the first clip seating with her attention on the table contents now focuses on handling boxes directly on the tabletop alongside the previously encountered person seated and engaging. The environment remains dynamic yet now centers on this singular task.",
+            "continuation_in_video_background": "The office continues to present as a well-lit, open-plan workplace with visible monitors and scattered office items.",
+            "change_in_video_background": "There are additional elements on the table, such as a reusable cup and a bottle, adding more details to the environment.",
+            "change_in_camera_angle": "The camera angle shifts to a side perspective, focusing more closely on the table and the woman's hands.",
+            "change_in_camera_movement": "There are no discernible changes in camera movement, maintaining a consistent and steady view of the scene."
+        }
+    ]
+}

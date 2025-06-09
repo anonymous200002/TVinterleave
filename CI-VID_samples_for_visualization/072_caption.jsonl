@@ -1,0 +1,40 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A pair of human hands interacts with a white ceramic mug placed on a round black stool. The mug contains a red rectangular package labeled 'ALMOND ROCA' along with other decorative materials such as red and gold wrapping paper with glittery polka dot patterns. In the beginning, one hand holds a golden ribbon, while the other adjusts the mug. Later, both hands carefully attach the ribbon to the handle of the mug. Throughout, attention is centered on assembling and decorating the mug setup.",
+            "camera_angle": "The camera is positioned at an eye-level, straight-on angle capturing the mug and hands clearly in the center of the frame.",
+            "camera_movement": "The camera remains stationary without any noticeable movement, maintaining a fixed focus on the mug and the actions taking place.",
+            "video_background": "The background consists of a black door and a white door frame, faintly illuminated by indoor lighting. The environment appears to be a small, enclosed indoor space with a neutral setting, allowing the white mug and vibrant decorations to stand out.\"\n}\n```"
+        },
+        {
+            "video_content": "The video showcases two decorative containers placed on a round black stool. On the left, there is a white ceramic jar with a festive ribbon featuring red and gold circular patterns, filled with a package of Almond Roca candy. On the right, a red metallic bucket is arranged with multiple festive items, including a red Almond Roca package, a Crown dark chocolate truffles package with mint, a yellow swirl-pattern confectionery item, and candy canes. Both containers are wrapped in decorative, translucent red paper with glittery accents. The stool is situated in front of a black wooden background featuring panel doors with brass or metallic doorknobs.",
+            "camera_angle": "The camera captures the scene from a straight, eye-level perspective centered on the containers.",
+            "camera_movement": "The camera remains stationary without any noticeable movement, maintaining focus on the containers throughout.",
+            "video_background": "The background consists of dark black wooden panels with two visible doors. The lighting is even, highlighting the foreground objects while keeping the background subdued. The knob fixtures on the doors add metallic detail to the background.\"\n}\n```"
+        },
+        {
+            "video_content": "The video begins with a green background and red text stating '2 Gifts for $10.' The next scene transitions to a zoomed-in view of various items, including a box labeled 'Always Delicious' with yellow circular patterns, and another box labeled 'Crown Chocolate Dark Chocolate Truffles with Mint,' both slightly obscured by green overlay effects. The video then reveals a complete gift basket containing these items and more, displayed on a red container. This basket contains candy canes wrapped in red and green stripes, a box of 'Almond Roca' with red packaging labeled '3 Pieces,' and other decorative items such as red bows and shiny, glitter-covered wrapping. The final seconds present a close-up of the basket, highlighting the intricate details of the items, including the vibrant colors, glossy textures, and brand labels.",
+            "camera_angle": "The camera captures both wide views and close-ups, emphasizing the details of the gift basket and the textual information.",
+            "camera_movement": "The video transitions from static text to zooming in on the gift items, gradually revealing a complete view followed by a slow close-up.",
+            "video_background": "The background is predominantly neutral, with a solid green background for the text overlay and a plain interior setting with white doors and dark walls for the gift basket display. The lighting is soft and even, highlighting the vibrant colors and shiny textures of the items.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The first clip focuses on assembling and decorating a white ceramic mug containing an Almond Roca package and festive decorations, including the attachment of a golden ribbon to the mug's handle. In the second clip, an additional red metallic bucket is introduced. It is decorated and arranged with festive items like another Almond Roca package, Crown dark chocolate truffles with mint, a yellow swirl-pattern confectionery item, and candy canes. Both containers are placed on a black stool, highlighting a transition from decoration to presenting the completed decorative setup.",
+            "change_in_video_content": "The second clip includes an additional decorative container—a red metallic bucket arranged with various festive items—not seen in the first clip. The completed decorative assembly of both the white ceramic mug and red metallic bucket emphasizes a more elaborate setup compared to the focus on the mug alone in the first clip.",
+            "continuation_in_video_background": "The background in both clips remains consistent, featuring black panel doors and a white door frame, with indoor lighting illuminating the scene.",
+            "change_in_video_background": "No noticeable change in the video background is observed between the two clips.",
+            "change_in_camera_angle": "There is no noticeable change in the camera angle; it remains eye-level and straight-on in both clips.",
+            "change_in_camera_movement": "There is no noticeable change in camera movement; the camera remains stationary and focused in both clips.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The second clip continues with a thematic display of festive gift items, similar to the first, including 'Almond Roca' products and other confectionery items. The focus shifts to highlight additional gift items such as a box labeled 'Always Delicious' with yellow circular patterns and an elaboration of the red metallic bucket's contents, including candy canes, decorative red bows, and packaging details. The items are now arranged in a red gift container with shiny, glittery wrapping, presented as a cohesive gift basket.",
+            "change_in_video_content": "The second clip introduces dynamic elements, notably the initial green background with red text '2 Gifts for $10,' zoomed-in details of the confectionery and decorative items, and the transition from individual containers to a single unified gift basket. New items like a visually prominent candy container labeled 'Always Delicious' and enhanced views of existing products including 'Crown Chocolate Dark Chocolate Truffles with Mint' are shown.",
+            "continuation_in_video_background": "The background maintains an indoor setting with structural elements like doors assisting the display of festive items.",
+            "change_in_video_background": "The background transitions from the dark black wooden panels and doors to a neutral green screen for text visuals and brighter white doors in the zoomed-in shots of the gift basket.",
+            "change_in_camera_angle": "The camera shifts from a static eye-level perspective to include textual overlays, wide views, and eventual close-ups of the gift basket contents.",
+            "change_in_camera_movement": "The camera introduces zooming effects, starting with static shots of the '2 Gifts for $10' text, transitions into zoomed-in details of items, then pans out to reveal the entire basket.\"\n}\n```"
+        }
+    ]
+}

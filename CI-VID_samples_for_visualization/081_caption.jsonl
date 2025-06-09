@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A person wearing a blue shirt, black vest, and a wide-brimmed hat is crouching on the ground beside some foliage. They are interacting with the environment, pointing towards a spot on the ground using a green tool. In the other hand, they hold a clear container, suggesting they might be collecting something from the ground. The person appears engaged, with their actions focused and deliberate, possibly demonstrating or explaining something related to exploration or nature study.",
+            "camera_angle": "The camera is positioned at a close-up angle, capturing the person from the side and slightly above, focusing on their actions and facial expressions.",
+            "camera_movement": "The camera remains steady without any noticeable movements such as panning or zooming, maintaining focus on the subject's actions.",
+            "video_background": "The setting is outdoors, with green foliage and dry grass surrounding the person. Lighting is natural, and the environment suggests a natural, possibly wooded area.\"\n}\n```"
+        },
+        {
+            "video_content": "Two individuals are engaged in an outdoor setting, one crouching with a red object, possibly a container, while the other, equipped with a camera and audio equipment, stands close by. The first person, wearing a hat and bandana, interacts closely with the surroundings, adjusting or examining a bag on the ground. The second person, wearing a blue jacket and cap, holds video and audio recording equipment, suggesting documentation or filming work. Their actions indicate focus and coordination, as they work together amidst tall grass and sparse vegetation.",
+            "camera_angle": "The perspective is at mid-level, capturing both subjects' upper body, focusing on their interaction and equipment.",
+            "camera_movement": "There are no evident camera movements such as panning or zooming, maintaining a stable view of the subjects.",
+            "video_background": "The background consists of a natural, grassy area with tall grass and scattered trees. The lighting appears natural, suggesting daytime, providing a clear view of the scene and emphasizing the outdoor environment.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The first person remains engaged with the environment, still crouched and interacting with the ground. Their focused actions continue, maintaining the exploration theme. The second person is now involved, equipped with video and audio equipment, indicating an ongoing documentation effort.",
+            "change_in_video_content": "A new individual appears in the scene, standing and holding a camera and audio equipment. The first person now has a red object in hand and interacts with a bag on the ground. The dynamic shifts from a solo activity to a collaborative documentation scene.",
+            "continuation_in_video_background": "The setting remains outdoors with tall grass, trees, and natural lighting, maintaining the original environment.",
+            "change_in_video_background": "Sparse trees become more visible, and the grassy area is more prominent, possibly indicating a broader view of the same outdoors location.",
+            "change_in_camera_angle": "The camera angle shifts from a close-up to a mid-level view, capturing the interactions between both individuals.",
+            "change_in_camera_movement": "The camera remains steady, as in the first clip, without panning or zooming actions.\"\n}\n```"
+        }
+    ]
+}

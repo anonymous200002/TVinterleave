@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A person is wearing a bright blue hat with a white geometric design prominently visible. The individual appears to be in a room with shelves in the background. There are various items on the shelves, including a red bottle, which are slightly out of focus. The person's head is angled to the side as they are facing to the right of the screen. They appear to be wearing a black garment with a yellow patch or emblem on it, situated over their shoulder area.",
+            "camera_angle": "The camera captures from a close-up angle, emphasizing the details of the blue hat and the clothing worn by the person.",
+            "camera_movement": "The camera remains steady with a fixed focus on the blue hat and the upper part of the person's body, with no visible panning or zooming.",
+            "video_background": "The setting is an indoor room with light blue walls. Shelves in the background hold various objects, including a red bottle and other items, slightly blurred, suggesting depth. The lighting is moderate, illuminating the subject clearly.\"\n}\n```"
+        },
+        {
+            "video_content": "A man in a blue shirt with black detailing is captured in three different shots. He is in a space that appears to be indoors. Another person, partially visible in dark-colored clothing, is in the left of the frame. The focus is on the man in the blue shirt, but the scene suggests interaction or a close spatial relationship with the other person. The setting has a slightly blurred background, hinting at a brightly colored wall with possibly a picture or window. As time progresses, the man in blue moves slightly, indicating a change in his position or perhaps a change in the angle of view, showcasing his neck and the side of his face.",
+            "camera_angle": "The camera is close to the man in the blue shirt, capturing a detailed view of his neck and the side of his face in a close-up shot.",
+            "camera_movement": "The camera angle remains mostly static, although slight repositioning could suggest slight panning or the man moving, allowing for different aspects of the man’s profile to be visible.",
+            "video_background": "The background consists of a bright blue wall which appears plain but parts display a blurred piece of artwork or window. The lighting seems natural and provides a well-lit ambiance, focusing mainly on the man in the blue shirt and slightly obscuring the surroundings to a degree, with a secondary individual slightly blurred in the background."
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The first clip features a person in a bright blue hat and black garment, facing to the right. The second clip includes a man in a blue shirt with black detailing, showing his neck and side of the face, indicating continuity in character focus.",
+            "change_in_video_content": "The first clip focuses on the person's blue hat, while the second shifts to a man in a blue shirt, suggesting a shift from the upper body view to a more detailed view of the neck and shirt.",
+            "continuation_in_video_background": "Both clips feature an indoor setting with blurred elements in the background, maintaining an indoor ambiance.",
+            "change_in_video_background": "The first clip's background has a room with shelves and a red bottle, while the second shows a bright blue wall with hints of artwork or a window.",
+            "change_in_camera_angle": "The camera angle remains close-up in both clips, with the focus shifting from the hat to the man's neck and shirt.",
+            "change_in_camera_movement": "The camera remains mostly steady in both clips, with minor repositioning in the second, allowing for varied perspectives on the man’s profile."
+        }
+    ]
+}

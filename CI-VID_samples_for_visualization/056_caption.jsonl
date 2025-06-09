@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The video features two people in close proximity, engaging in an intimate interaction indoors. One has dark, shoulder-length hair, while the other has short, blonde hair. Their actions involve affectionate gestures such as touching each other's hair and faces while facing each other. By the end, another individual appears, wearing patterned clothing, holding an object resembling a bottle with both hands while looking towards the others. This interaction occurs within a warmly lit home environment.",
+            "camera_angle": "The camera captures the subjects from close-up perspectives, focusing on their upper bodies and faces, and then transitions to show another person in the background.",
+            "camera_movement": "The camera maintains a fixed close-up on the pair in the beginning, followed by a slight shift to reveal the additional individual in the background.",
+            "video_background": "The background features a residential interior with warm lighting. A glowing bulb, visible in the distance, enhances the cozy atmosphere. Elements like a wall-mounted coat rack, a doorway, and faintly visible furniture or home decor provide a domestic context.\"\n}\n```"
+        },
+        {
+            "video_content": "Two people are inside a dimly lit room standing near a doorway. One person has light-colored short hair and is wearing a black hoodie, while the other has long dark hair and a dark outfit, carrying what appears to be a strap over their shoulder, likely a bag or purse. They are engaged in an interaction that involves gestures and movements, such as adjusting the strap or arranging clothing. The lighting creates a warm tone, with shadows and soft illumination enhancing the features and contours of the surroundings. The backdrop includes a visible wall with a framed object, and part of the hallway or another room is visible through an open doorway. They appear to be closely positioned in a natural conversational or interactive setting.",
+            "camera_angle": "The subjects are captured from a medium close-up angle, providing focus on their upper bodies and the background details around them.",
+            "camera_movement": "The camera remains steady without noticeable panning, tilting, or zooming, maintaining a fixed perspective throughout.",
+            "video_background": "The environment suggests an indoors location, with muted lighting that gives a warm, amber glow. Visible features include a doorway, a wall with light-colored paint, and a framed item hanging on the wall. A small portion of what looks like another room or hallway is slightly illuminated in the background.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The second clip continues from the first with two characters interacting indoors. The individual with short blonde hair and the one with long dark hair are now seen near a doorway. They shift focus to adjusting a strap over one character's shoulder, engaging in what seems to be the arrangement of clothing or accessories.",
+            "change_in_video_content": "The individual with patterned clothing holding an object resembling a bottle seen in the first clip no longer appears. The two central characters shift their actions toward practical gestures, such as adjusting a strap or clothing, rather than affectionate gestures.",
+            "continuation_in_video_background": "The video retains the indoor and warmly lit environment with muted lighting and similar decorative elements, such as the visible wall and framed item behind.",
+            "change_in_video_background": "The background now includes a clearer view of a framed object on the wall, and the doorway area becomes more prominent as part of the space.",
+            "change_in_camera_angle": "The camera captures the interaction from a medium close-up angle, differing from earlier close-up perspectives.",
+            "change_in_camera_movement": "There is no noticeable camera movement in the second clip, as it maintains a steady perspective throughout."
+        }
+    ]
+}

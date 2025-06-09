@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The video features two adjacent railroad freight cars, one bright green and the other dark brown, positioned stationary on parallel tracks. The green car, labeled 'BN 449275', and the brown car, labeled 'TGN 215071', have textual specifications and structural lattice detailing on their fronts. The green car has prominent white lettering 'BN' towards the top, while its lower portion holds technical information. Its structure has a smooth, glossy finish. The brown car displays similar text but is weathered with a rustic appearance. Both cars have detailed undercarriages, including visible wheels, couplers, and hoses hanging beneath. They are aligned side by side, with intricate metallic frameworks emphasizing their industrial design.",
+            "camera_angle": "The camera is level with the couplers and wheels of the freight cars, capturing their details head-on.",
+            "camera_movement": "The camera remains steadily positioned, moving slightly forward and maintaining focus on the central details of the freight cars.",
+            "video_background": "The background consists of a gravel-covered train track base, with additional blurred train cars visible in the distance on separate tracks. There is greenery present at the far end, suggesting an outdoor setting. Lighting is even, highlighting the objects in focus clearly without shadows.\"\n}\n```"
+        },
+        {
+            "video_content": "A person's hand interacts with components of a model train. The scene starts with several disassembled miniature train parts placed on a white surface, including black plastic wheel truck frames and metallic wheel axles. The hand picks up a black truck frame with metallic wheels attached, inspecting it closely. The hand manipulates one of the axles, gently removing it from the truck frame for examination. The text 'Burlington Northern' can be seen clearly in white letters on a green model train car positioned in the background.",
+            "camera_angle": "The perspective is primarily focused on close-up views, centering on the person's hands and model train parts, providing detailed visuals of small individual components.",
+            "camera_movement": "The camera remains stationary, with no visible panning, tilting, or zooming, allowing for a steady and focused view of the action.",
+            "video_background": "The background includes a green model train car with white text reading 'Burlington Northern' and a white flat surface containing additional small model train components. The background lighting is consistent and bright, ensuring all details are well-illuminated."
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The theme transitions from real freight cars to model train components, featuring a miniature green 'Burlington Northern' train car consistent with the design of the real-life counterpart, along with miniature black truck frames and metallic wheels.",
+            "change_in_video_content": "Newly introduced elements include disassembled train parts, such as wheel truck frames and metallic axles, with detailed hand interactions manipulating and examining these components. The full-scale train context from the first clip transitions to a focus on smaller-scale model elements.",
+            "continuation_in_video_background": "Both clips feature train-related elements, with the second clip showcasing a green 'Burlington Northern' model train car as part of the background.",
+            "change_in_video_background": "The background switches from an outdoor railroad track setting with blurred distant freight cars to an indoor environment with a flat, white surface and train components arranged on it.",
+            "change_in_camera_angle": "The camera angle shifts from a level view of the couplers and wheels of the freight cars to an overhead, close-up view of a person's hands interacting with the miniature components.",
+            "change_in_camera_movement": "The camera changes from slight forward movement to remaining entirely stationary, with no panning, tilting, or zooming, focused solely on the model train components.\"\n}\n```"
+        }
+    ]
+}
