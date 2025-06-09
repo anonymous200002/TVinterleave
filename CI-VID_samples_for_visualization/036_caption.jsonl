@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "Two mice are depicted interacting on a surface covered by a cloth material. One of the mice has a dark brown coat while the other has a light beige coat. Both mice stand on their hind legs and make expressive gestures with their front paws. The dark brown mouse has subtle pink decorations on one ear. Over time, their interactions intensify as they appear to communicate with each other. Towards the end, both open their mouths wide, as if reacting with surprise or yelling. Their tails are visible, long and slender, extending behind them.",
+            "camera_angle": "The camera is positioned at a low angle near the surface level, providing a focused view of the mice, capturing them in an intimate and detailed perspective.",
+            "camera_movement": "The camera remains static, with no apparent panning, tilting, or zooming movements observed during the interaction.",
+            "video_background": "The background consists of a textured fabric surface with soft light and partially visible larger objects, such as a cushion-like element. The setting appears to be indoors, with dim, naturalistic lighting and subtle shadows.\"\n}\n```"
+        },
+        {
+            "video_content": "A small brown mouse is seen climbing up a black fabric surface. The mouse has light brown fur, large round ears, a pink nose, and a long, thin tail. Following this, multiple mice move along a wooden surface, one of them being the brown mouse from earlier. One mouse appears to be climbing up close to what looks like the maroon jacket of a person holding or interacting with them. The camera focuses closely on the brown mouse as it raises one of its small pink feet and gazes upward, revealing two visible front teeth and slightly sparkling eyes. The brown mouse appears to engage directly with the person, looking up at what seems to be a human figure. The proceedings suggest human interaction, with the person's hand visible in proximity to the mouse. Finally, the mouse climbs further up, closely approaching the person's shoulder, with the outdoor environment in the background becoming more discernable.",
+            "camera_angle": "The angle alternates between close-up shots of the mouse and slightly wider shots that capture both the mice and parts of the human figure.",
+            "camera_movement": "The camera tracks the mouse’s movement upward and transitions between zoomed-in focus on specific details, like the mouse's face, and slightly zoomed-out views showing the wider interaction.",
+            "video_background": "The background includes an outdoor environment with blurred greenery and stone structures suggesting a natural open area. The surfaces include black fabric, wooden materials, and parts of a person wearing a maroon jacket, adding depth and texture to the setting.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The second clip includes a small brown mouse interacting with its surroundings. Initially, the mouse climbs a black fabric surface before joining others on a wooden platform. The scene adds a human figure interacting with the brown mouse, which raises its front paw and looks upward at the individual.",
+            "change_in_video_content": "The addition of a human figure and outdoor elements transitions the focus from the isolated interaction of two mice in the first clip to one mouse interacting with a human and its environment in the second clip.",
+            "continuation_in_video_background": "The setting transitions to outdoors, with wooden surfaces and natural greenery visible, maintaining some focus on textured materials like black fabric.",
+            "change_in_video_background": "The indoor environment from the first clip changes to an outdoor setting with natural lighting, greenery, and stone elements in the blurred background.",
+            "change_in_camera_angle": "The camera shifts from a static close perspective to alternating close-ups and wider angles, incorporating the mouse and human figure.",
+            "change_in_camera_movement": "The static camera changes to one that tracks the mouse and transitions between zoomed-in details and broader views.\"\n}\n```"
+        }
+    ]
+}

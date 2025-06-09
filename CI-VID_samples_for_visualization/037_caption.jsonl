@@ -1,0 +1,40 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "In a dimly lit setting, a young woman wearing a white blouse is seated in a rustic carriage. Her hair is styled in a single braid. Beside her is a small mouse with soft, grey fur. The mouse appears to be animated and expressive, raising its front paws and with its mouth open, giving the impression of surprise or excitement. The carriage interior is upholstered with dark, patterned fabric featuring floral designs. This seems to be a scene from a fantastical or fairy-tale storyline.",
+            "camera_angle": "The camera captures the scene from an eye-level perspective, focusing directly on the characters inside the carriage.",
+            "camera_movement": "The camera remains mostly static with subtle focus on both the woman and the mouse, without noticeable panning or tilting.",
+            "video_background": "The setting is a darkened and enclosed space, set within a carriage. The environmental lighting is soft, creating shadows and highlighting the intricate floral patterns on the upholstery of the carriage seats. The carriage itself seems to be drawn by ornate, curved metalwork, typical of a fairy-tale design.\"\n}\n```"
+        },
+        {
+            "video_content": "The footage features a person wearing a detailed patterned coat seen from behind walking in a wooded area. The texture of the jacket displays intricate floral patterns, and the coat is structured with prominent seams. A small rodent, likely a mouse, with light brown fur and a long tail, is seen mid-air in motion, as if jumping or falling, in close proximity to the person. The mouse’s limbs are extended outward, and its body rotates slightly during the movement. The actions suggest a brief dynamic interaction between the two subjects, with the mouse's trajectory being the main movement catching attention. The person’s posture remains upright, and there’s no visible interaction between the person and the mouse during this brief period.",
+            "camera_angle": "The perspective is from slightly behind and above the person’s shoulder, focusing on the person and the surrounding forest area.",
+            "camera_movement": "The camera remains static, capturing the action within its frame without panning, tilting, or zooming.",
+            "video_background": "The setting is a dense forest with abundant dark green foliage, creating a dimly lit environment. The trees in the background are tall with trunks covered in shadows. The lighting is low, hinting at overcast weather or dense tree cover, and the scene appears to occur during twilight or late evening.\"\n}\n```"
+        },
+        {
+            "video_content": "A small rodent resembling a mouse with light brown fur is lying on its back on a dark blue, ornate patterned couch. Its limbs are extended upward, as if it is struggling or interacting with its surroundings. The texture of its fur appears soft and clean. In the background, there is a transition to a larger outdoor view where a person in a white dress with long hair braided to one side is seated in an open, decorative carriage with swirled golden designs. The setting transitions from an indoor, intimate setting to an outdoor environment surrounded by lush greenery and trees.",
+            "camera_angle": "The camera initially focuses on the rodent from a front-facing, close-up angle and later shifts to a medium shot of the person in the carriage.",
+            "camera_movement": "The camera remains stationary while capturing the rodent and then transitions to a stable shot capturing the outdoor setting.",
+            "video_background": "The initial background features a dark blue couch with floral and vine patterns, illuminated by dim, indoor lighting. The later outdoor background shows a decorative carriage situated in a natural environment with dense greenery and trees visible under soft lighting.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The small animated mouse from the first clip continues to appear in the second clip, seen mid-air in motion as if jumping or falling. The focus shifts to a person wearing a detailed patterned coat walking in a wooded area.",
+            "change_in_video_content": "The scene transitions from the interior of a carriage with a young woman and the mouse to an exterior forest setting with a different character and the mouse appearing in motion.",
+            "continuation_in_video_background": "The dim lighting and dark tones continue, maintaining a subdued visual style.",
+            "change_in_video_background": "The background shifts from the enclosed, patterned interior of the carriage to an open, dense forest area with tall trees and green foliage.",
+            "change_in_camera_angle": "The camera shifts from an eye-level perspective inside the carriage to a perspective from behind and above the person’s shoulder in the forest.",
+            "change_in_camera_movement": "The camera remains mostly static in both clips but shifts its focus from stationary interior subjects to capturing motion within a stationary frame.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The rodent seen mid-air in the first clip is found lying on its back atop a dark blue, floral-patterned couch in the second clip. Its limbs are extended upwards, suggesting possible movement or struggle. Additionally, the second clip introduces a person seated in a decorative carriage with golden swirls and wearing a white dress.",
+            "change_in_video_content": "The focus transitions from a forest setting featuring a figure in a patterned coat and a rodent in motion to an indoor scene showcasing the rodent on a couch, later revealing a wider outdoor perspective with a decorative carriage and another person.",
+            "continuation_in_video_background": "Dense trees and greenery are prevalent in both clips, carrying over the outdoor forest setting.",
+            "change_in_video_background": "The background transitions from dark-green forest scenery to an interior space with dark blue furniture and ornate patterns, and then back to an open outdoor area featuring the carriage surrounded by greenery.",
+            "change_in_camera_angle": "The angle shifts from an elevated perspective of the person’s back in the first clip to a close-up front-facing view of the rodent, then to a medium shot of the carriage.",
+            "change_in_camera_movement": "The first clip’s static camera transitions to a stationary shot in the second clip, shifting focus between the rodent and the wider outdoor scene.\"\n}\n```"
+        }
+    ]
+}

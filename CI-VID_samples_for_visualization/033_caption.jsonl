@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The video shows the rear cargo area of a sports car, specifically a Nissan 350Z, identifiable by the logo featuring the letter 'Z' on the metal panel inside the trunk. The trunk contains a Nitrous Express (NX) nitrous oxide bottle, which is white with a prominent NX logo in red and blue, along with various labels and safety warnings. Connected to visible brackets, the nitrous bottle appears securely mounted within the trunk space. Metallic orange structural bracing, likely a roll cage or reinforcement bar, is visible towards the upper rear area of the trunk, adding a racing or performance modification to the car’s setup. Later, there is an individual wearing a black T-shirt with a design reading 'SR20 Problems' and depicting an engine block. The scene transitions back to focusing on the nitrous oxide bottle in the trunk, with a hand in gloves coming into view briefly, possibly interacting with the equipment.",
+            "camera_angle": "The camera alternates between a close-up of the car’s trunk interior highlighting the nitrous bottle and a close-frontal view of the person in the black T-shirt.",
+            "camera_movement": "The camera exhibits slight panning and repositioning to highlight the nitrous bottle and later switches to a static shot of the person. Movements are otherwise minimal.",
+            "video_background": "The background of the trunk scene features the interior of the vehicle, with a matte black and metallic finish, and visible orange bracing bars. The external setting where the person is shown includes a parking lot with parked cars, trees, and buildings, with sunlight visible in the distance.\"\n}\n```"
+        },
+        {
+            "video_content": "A person wearing a fluorescent yellow wristband is seen handling a white cylindrical bottle labeled 'Nitrous Express.' The bottle has a polished metal bracket securing it in place. The text on the bottle includes large red and blue 'NX' letters and additional smaller content, such as the words 'Nitrous Express,' '3156,' and various safety markings like a green gas pictogram. Another individual, wearing a black glove, is holding one side of the bottle's compartment. The bottle is securely fitted into a recessed black compartment with a rectangular opening next to it. The first person places their hand on the bottle, adjusting its position slightly.",
+            "camera_angle": "The view is captured from a close-up perspective, focusing entirely on the bottle and hands, leaving surrounding elements partially cropped.",
+            "camera_movement": "The camera remains steady with minimal movement, creating a stable and close perspective of the subject matter.",
+            "video_background": "The background is composed of a dark, textured black material surrounding the bottle’s compartment. Nearby metal bolts and parts of a mechanical surface are visible, suggesting an automotive setting. The lighting is even, reducing shadows and highlighting the reflective surface of the bottle and metal components.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The second clip continues to focus on the Nitrous Express nitrous oxide bottle. The same white cylindrical bottle, with the distinct NX logo and safety labels, is shown being handled. A person wearing a fluorescent yellow wristband places their hand on the bottle, adjusting its position. Additionally, a second individual wearing a black glove participates by holding one side of the recessed compartment where the bottle is fitted.",
+            "change_in_video_content": "A segmented black compartment surrounding the nitrous bottle becomes more visible, with bolts and mechanical elements included. Unlike the first clip, no visible roll cage or exterior parking lot scenes are included. The clip exclusively focuses on hands interacting with the bottle.",
+            "continuation_in_video_background": "The automotive setting is consistent, with the dark black material surrounding the nitrous bottle continuing to appear as a design element.",
+            "change_in_video_background": "The external parking lot with trees and buildings in the first clip is absent. The second clip transitions entirely to a close interior view with textured black surfaces and mechanical bolts.",
+            "change_in_camera_angle": "The camera shifts to a close-up perspective solely focused on the nitrous bottle and hands, eliminating external or wider views.",
+            "change_in_camera_movement": "The camera remains steady without panning or tilting, maintaining focus on the central interaction with minimal movement.\"\n}\n```"
+        }
+    ]
+}

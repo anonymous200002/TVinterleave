@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A man wearing a black cap with backward orientation and a black T-shirt stands outside a garage area. He makes gestures with his hands, pointing towards the camera at some points and then turning his head to the side. The surroundings include a modern garage with open bays revealing various automotive equipment and cars inside. Bright, natural lighting illuminates the outdoor scene, while the interior appears lit with artificial overhead lights. Electrical panels and an ADT security sign adorn the gray wall of the building behind him. A black car is parked nearby, partially visible in the right side of the setting. The man seems to be interacting dynamically as part of a discussion or presentation.",
+            "camera_angle": "The camera is positioned at a close, eye-level angle, focusing directly on the man's upper body and head while capturing some background details.",
+            "camera_movement": "The camera exhibits minor handheld movement, shifting slightly to follow the man as he gestures and turns his head. It remains relatively stable throughout.",
+            "video_background": "The environment is an outdoor automotive garage area. The main building has gray walls with vertical seams and features open bays leading into a well-lit indoor workspace. Visible items include parked vehicles, car lifts, and automotive equipment. The lighting contrasts between the bright daylight outside and the artificial light inside the garage. A blue hexagonal ADT security sign and electrical boxes are affixed to the side wall, while a black car is parked nearby, partially in view.\"\n}\n```"
+        },
+        {
+            "video_content": "A man wearing a black t-shirt and a black hat, with red headphones connected to his ears, is standing outside a garage. The garage entrance is open, revealing an indoor workspace with tools, equipment, and a vehicle being worked on. A sign above the garage reads 'MOTOR OILS & ADDITIVES Made in Germany.' A black vehicle with an open trunk is parked close to the garage, and a second man can be seen walking inside the workshop. The camera points to a black car inside the garage with a custom rear assembly made of exposed metal bars, and its license plate is visible. A hand gestures towards the car, emphasizing its presence. The ground is concrete with visible water hoses and scattered equipment.",
+            "camera_angle": "The camera operates at a close-up and mid-level perspective, focusing on the man outdoors, the garage entrance, and items in the background.",
+            "camera_movement": "The camera pans slowly between the man, the garage entrance, and the black car inside. There is also a brief zoom towards the car to highlight it.",
+            "video_background": "The setting includes an outdoor concrete area in front of a garage. One side has a beige building with parked cars and a black fence. The garage interior is well-lit, containing tools on shelves, a caution sign, and a partially visible car undergoing some work. The overall environment appears industrial and functional.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The second clip continues showing a man in a black t-shirt and hat outside the same garage. Another man, wearing red headphones, is introduced. The garage's interior and the black car with an exposed rear assembly become a focal point. A hand gestures toward the car, emphasizing its custom features. A sign above the garage reading 'MOTOR OILS & ADDITIVES Made in Germany' and another person walking inside the garage are visible.",
+            "change_in_video_content": "Additional characters are shown: a second man with red headphones and another individual walking inside the garage. A specific focus on a black car with a custom rear assembly inside the garage is introduced, along with other details such as a visible license plate and specific garage signage.",
+            "continuation_in_video_background": "The garage setting remains consistent, with the concrete outdoor area, open garage bays, and visible equipment inside. The overall lighting and industrial environment persist.",
+            "change_in_video_background": "A visible beige building with parked cars and a black fence appears in the background. Additional items, such as water hoses and scattered tools on the ground, become evident.",
+            "change_in_camera_angle": "The angle shifts to include mid-level and close-up perspectives, focusing on new elements like the car’s custom rear assembly and signage above the garage.",
+            "change_in_camera_movement": "The camera pans across the scene, briefly zooms in toward the black car, and follows the hand gesturing toward specific elements.\"\n}\n```"
+        }
+    ]
+}

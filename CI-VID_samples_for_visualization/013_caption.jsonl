@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A substantial sandwich is centrally placed, showcasing its layers immersed in vivid textures. The sandwich consists of a crusty, lightly browned baguette encasing a variety of fillings. Between the bread roll, there is a layer of green lettuce providing a fresh, crisp appearance. Juicy red tomato slices add a splash of color and freshness. A slice of yellow cheese and a sunny-side-up egg with seasoning specks add a hearty touch. There is a patty, likely a beef or similar type, contributing a substantial look to the sandwich. A lobster claw-shaped object with a red upper and yellow under part appears near the sandwich in the first frame and returns again as if interacting or about to grab the sandwich, hinting towards a potential action or the presence of a character immediately off-frame.",
+            "camera_angle": "The angle is at a low, straight perspective, focusing closely on the sandwich, capturing all ingredients distinctly in detail.",
+            "camera_movement": "The camera maintains a steady focus on the sandwich with only subtle adjustments that keep the sandwich centered while a claw-like object nears and moves away.",
+            "video_background": "The background is a natural setting with a rocky ground adjacent to a vast, blue ocean. The sky is bright and clear with a few scattered white clouds, indicating a likely daytime scenario.\"\n}\n```"
+        },
+        {
+            "video_content": "A cartoon-like character resembling a bird is featured prominently. It has a dark blue body with bright yellow circular markings on its cheeks and a yellow triangular pattern above its eyes, indicating its alertness even though its eyes are closed. The beak is large, orange, and holding a sandwich-style meal consisting of a round brown bun filled with leafy greens, possibly lettuce, and pale yellow noodles visible inside the bun. The character is shown from a frontal angle, focusing on its face and meal, indicating that this animated character, possibly a Pokémon named Toxel, is enjoying its food. The video may fall under the category of an animation or a cartoon, possibly a scene from a Pokémon series or movie.",
+            "camera_angle": "The camera angle captures the character's face directly from the front, emphasizing its expressions and the food it is eating.",
+            "camera_movement": "There is no evident camera movement like panning or tilting; the focus remains steady on the character and its sandwich.",
+            "video_background": "The background is a textured ground, possibly a sandy or rocky terrain, with subtle variation in color, giving context to the outdoor setting. The lighting is consistent, highlighting the character while the background provides a neutral backdrop. The 'NETFLIX' logo is seen in the top right corner, indicating distribution or streaming context.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The first clip features a sandwich on rocky ground with an ocean backdrop, and an approaching claw-like object. In the second clip, a cartoon bird-like character with closed eyes is shown eating a similar sandwich with ingredients like lettuce and noodles.",
+            "change_in_video_content": "The sandwich from the first clip is now being consumed by the character, a bird-like Pokémon. The scene shifts focus from the sandwich and claw to the character with closed eyes, enjoying its meal.",
+            "continuation_in_video_background": "Both clips share a consistent rocky terrain background with an open blue sky.",
+            "change_in_video_background": "There is a transition from a broader ocean view to focusing solely on the textured rocky ground.",
+            "change_in_camera_angle": "The camera angle changes from a low perspective on the sandwich to a frontal view of the bird character.",
+            "change_in_camera_movement": "There is no camera movement; the focus shifts from the sandwich to the character's face.\"\n}\n```"
+        }
+    ]
+}

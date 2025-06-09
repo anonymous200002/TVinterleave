@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A right hand with neatly trimmed nails and smooth skin is holding a white string-like object against a dark green surface, which resembles a chalkboard. The hand pulls the string taut, creating a slight curve in its appearance. The string is thin and white, with a slightly textured surface. At the bottom of the green background, there is a line of Russian text reading 'БЕРИ И ДЕЛАЙ', which translates to 'Take and Do'. The action focuses on the hand's manipulation of the string, displaying minimal movement as it adjusts the tension and position of the string.",
+            "camera_angle": "The camera captures the scene from a close-up top-down angle, providing a clear view of the hand, string, and green surface.",
+            "camera_movement": "The camera remains static throughout, with no noticeable panning, tilting, or zooming.",
+            "video_background": "The background is a solid dark green surface with a slight matte texture, resembling a chalkboard. The lighting is bright and evenly distributed, ensuring no shadows or glare, and the Russian text at the bottom of the frame is integrated into the setting.\"\n}\n```"
+        },
+        {
+            "video_content": "A woman wearing a teal short-sleeve shirt, high-waisted blue jeans, and a blue headband with yellow smiley-face patterns is seen interacting with a dark green chalkboard in a brightly colored room. She first uses white chalk to draw a circular shape on the chalkboard. After completing the circle, she pauses briefly and looks at the chalkboard. She then reaches down to pick up or adjust a light-blue item located on a white chalk tray beneath the board. There is white text at the bottom of the screen in Cyrillic script: 'БЕРИ И ДЕЛАЙ'.",
+            "camera_angle": "The camera is positioned at a straight-on angle, focusing on the upper body of the woman and the chalkboard.",
+            "camera_movement": "The camera remains steady without any noticeable panning, tilting, or zooming.",
+            "video_background": "The background features a green chalkboard occupying most of the frame with a purple wall to the side. The right side shows colorful items, including a globe and shelves with books or objects. Lighting is bright and evenly distributed.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The dark green surface from the first clip carries over into the second clip as part of the chalkboard. The thin white string initially tensioned by a hand in the first clip is contextualized as being connected to a chalkboard where, in the second clip, a woman uses white chalk to draw a circular shape on the same board. Below the board, the text '\\u0411\\u0415\\u0420\\u0418 \\u0418 \\u0414\\u0415\\u041B\\u0410\\u0419' from the first clip reappears in the second clip.",
+            "change_in_video_content": "In the second clip, the hand is replaced by a woman who interacts directly with the chalkboard, drawing on it with white chalk. Unlike the first clip's focus on a single thin string, the second clip broadens the scope to include the woman, her chalk drawing, and a light-blue object on the chalk tray which she touches or adjusts.",
+            "continuation_in_video_background": "The dark green chalkboard continues across both clips. The lighting remains bright and evenly distributed, ensuring the board and its elements are clearly visible.",
+            "change_in_video_background": "The second clip expands the background to reveal additional environmental elements, including a purple wall, shelves with colorful items, and a globe on the right side of the frame.",
+            "change_in_camera_angle": "The camera angle changes from a close-up top-down angle in the first clip to a straight-on perspective in the second clip, capturing the woman and the chalkboard.",
+            "change_in_camera_movement": "The camera remains static in both clips, with no panning, tilting, or zooming present in either.\"\n}\n```"
+        }
+    ]
+}

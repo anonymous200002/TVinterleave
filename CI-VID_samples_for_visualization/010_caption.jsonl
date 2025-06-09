@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A butternut squash is being prepared on a wooden surface. In the beginning, the focus is on its bottom end, which is light orange and has rough, textured features, including a small stub. A large, sharp kitchen knife cuts into the squash. The slicing action reveals the inner flesh, which is vibrant orange and moist, with small fibrous textures. First, a slice is removed, and the rounded surface of the squash is exposed, showing the smooth interior flesh. The second view zooms slightly closer to the exposed flesh as another thin peel is removed, leaving part of the orange flesh exposed with rough edges where the peel was lifted. The precise cutting motion and exposure of the vibrant orange interior suggest the squash is being processed for culinary purposes.",
+            "camera_angle": "The camera maintains a close-up perspective directly facing the squash, emphasizing the cutting process and interior texture.",
+            "camera_movement": "The camera is stable, without noticeable pans or zooms, maintaining steady focus on the butternut squash and the cutting process.",
+            "video_background": "The background is a flat wooden surface, evoking a kitchen or food preparation area. The lighting is bright and even, highlighting the colors and textures of both the squash and the knife. No additional objects are visible in the setting.\"\n}\n```"
+        },
+        {
+            "video_content": "A close-up view shows a firm, yellowish-orange butternut squash lying horizontally on a wooden cutting board. A hand tightly grips the squash near its rounded end while the other hand firmly presses a metal tool, resembling a fork or prong, into the surface of the squash. Repeated forceful movements are observed as the tool punctures the squash, leaving a series of small holes forming an orderly line along the curved surface. The butternut squash has a smooth texture with minor blemishes, and the cutting board appears to be clean and made of light-brown wood with a natural grain pattern. The action continues throughout the sequence and highlights the process of preparing the squash for further use.",
+            "camera_angle": "The camera maintains a top-down perspective, directly above the squash and the hands, offering a clear view of the ongoing action.",
+            "camera_movement": "The camera remains stationary, focusing on the center of the action without shifting or zooming.",
+            "video_background": "The background consists of a plain wooden cutting board with visible wood grain patterns. There are no additional objects or distractions in the surroundings, ensuring the focus remains entirely on the squash and hands performing the task.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The process of preparing the butternut squash continues. The previously exposed squash is now handled at its rounded end. A hand grips the squash firmly while another hand uses a metallic tool, possibly a fork or similar implement, penetrating the squash's surface and creating an orderly series of puncture holes across the smooth, yellowish-orange skin.",
+            "change_in_video_content": "The cutting motion switches to piercing. The knife previously used is replaced by a fork-like tool. The focus transitions from exposing the squash's orange interior to puncturing its exterior surface, leaving visible holes.",
+            "continuation_in_video_background": "The wooden cutting board remains consistent, with the same light-brown tone and visible grain patterns.",
+            "change_in_video_background": "No changes in the background. The cutting board and flat wooden surface persist without additions or alterations.",
+            "change_in_camera_angle": "The angle changes from a close-up side view of the squash to a top-down perspective displaying both the squash and the hands performing the action.",
+            "change_in_camera_movement": "The camera remains stationary in both clips, with no noticeable zooming, panning, or other motion.\"\n}\n```"
+        }
+    ]
+}

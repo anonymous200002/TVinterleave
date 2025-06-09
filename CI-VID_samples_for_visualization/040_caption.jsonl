@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The scene shows a rustic indoor setting with a person interacting with small animals. There are three small rodents, possibly mice, positioned on a table in front of the person. They are of different colors, with one being a distinct brown and white. The person's attire is white, and they are seated or kneeling, facing the small creatures with a slight downward gaze. The interaction appears gentle, with the animals gathered closely, suggesting familiarity or domestication. A jar, possibly containing food or some sort of item related to the setting, rests on the table to the viewer's left.",
+            "camera_angle": "The camera angle is set at eye-level directly facing both the person and the table, capturing the interaction as if from the perspective of a seated observer.",
+            "camera_movement": "There is no evident panning or tilting motion, as the focus remains steady on the interaction between the person and the animals.",
+            "video_background": "The background consists of a rustic wooden structure with earthy tones suggesting an old or medieval type setting. Shelves can be seen on the right side, lined with jars and possibly other containers, indicating a storage or kitchen-like environment. The lighting is warm and ambient, further emphasizing the cozy, enclosed nature of the space."
+        },
+        {
+            "video_content": "A scene takes place in a quaint, vintage-style workshop containing materials and tools suggestive of dressmaking or tailoring. The room is filled with various items such as an old Singer sewing machine and a mannequin dressed in a white garment. The background wall is adorned with sketches and fabric swatches, indicative of a creative workspace. A woman in a period-appropriate, flowing dress is adjusting the strap of a bag slung over her shoulder. Her braided hair complements her attire, suggesting a historical setting. She moves gracefully around the room, her actions appearing deliberate and methodical as she interacts with her surroundings. Attention is focused on the sewing setup and the array of designs on the table and the wall, emphasizing the artistic and industrious theme.",
+            "camera_angle": "The perspective is primarily at eye level, providing a straightforward view of the sewing workspace and the woman. The camera captures the main action and setting from slightly different orientations.",
+            "camera_movement": "The camera remains mostly stationary with subtle shifts to maintain focus on the woman and her interaction with the sewing workshop.",
+            "video_background": "The workspace features stone walls typical of older buildings, with natural light streaming through a window above. The atmosphere is warm with a cozy and historical ambiance, embellished by the diffused sunlight. The sewing machine and other vintage furnishings reinforce the historic and artisanal setting.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The woman from the first clip continues to appear in the second clip, indicating the same character is present. Her interaction now focuses on a different setting with new objects and actions.",
+            "change_in_video_content": "The second clip shifts to a workshop environment with tools for dressmaking. The focus transitions from interacting with animals to handling dressmaking materials and adjusting a strap of a bag.",
+            "continuation_in_video_background": "The stone walls and warm lighting are carried over, maintaining a vintage setting.",
+            "change_in_video_background": "The background changes to show a workshop with sewing implements, sketches, and swatches adorning the walls.",
+            "change_in_camera_angle": "The angle shifts to include more of the room and objects like the sewing machine.",
+            "change_in_camera_movement": "There are subtle shifts to keep the woman in focus as she moves around the workshop."
+        }
+    ]
+}

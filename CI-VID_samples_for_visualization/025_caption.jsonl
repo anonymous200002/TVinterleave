@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A man with a short haircut gestures and speaks outdoors, wearing a black T-shirt with a logo. He seems to be speaking or explaining something, gesturing with a hand that has a yellow wristband. The scene transitions to an area with several vehicles parked, including a red car and a black SUV. The focus shifts onto a black car with an open hatchback, revealing the interior, which contains mechanical components and a roll cage painted in a metallic color. The man’s hand is seen again resting gently on the car's exterior, which is a dark-colored Nissan 350Z, indicated by the badge.",
+            "camera_angle": "The camera captures the man initially from a side perspective, then focuses on the cars from a higher angle, looking down into the interior.",
+            "camera_movement": "There is a pan movement from the man to the vehicles, followed by a tilt downwards to show inside the car and a close-up of the badge.",
+            "video_background": "The video takes place in an outdoor industrial area with a warehouse in the background. The surroundings include parked cars, trees, and a clear evening sky providing natural light.\"\n}\n```"
+        },
+        {
+            "video_content": "A person examines the engine of a car which has its hood open. The car is parked outdoors in a lot where several other vehicles are visible, including a red sports car and a black SUV. The person wears a black T-shirt with a graphic design on the back and black pants. Gloves are worn on their hands as they lean over the engine compartment, inspecting and possibly adjusting components inside. The engine area is clearly seen, with various car parts visible such as the engine cover and components surrounding it. The sequence suggests a routine check or maintenance task being performed on the vehicle.",
+            "camera_angle": "The perspective primarily captures from the side and slightly above the car's hood, focusing on the person and the engine.",
+            "camera_movement": "The camera maintains a stable position throughout, with slight adjustments to maintain focus on the person and the car's engine.",
+            "video_background": "The setting is an outdoor parking area in front of a building. The environment is lit by natural light, indicating it might be daytime or early evening. Several parked cars surround the area, including sedans and an SUV, with trees and other buildings in the distance."
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The second clip continues with a person wearing similar attire, now examining the engine of the car, with a focus on the vehicle's interior components.",
+            "change_in_video_content": "The focus shifts from the exterior design and badge of the Nissan 350Z to the engine maintenance, showing detailed parts like the engine cover.",
+            "continuation_in_video_background": "The background remains an outdoor area with parked vehicles surrounding the main focus.",
+            "change_in_video_background": "The lighting seems consistent with a potential transition from evening to early daytime.",
+            "change_in_camera_angle": "The camera angle shifts to above and side views of an open hood, focusing on the engine area.",
+            "change_in_camera_movement": "The camera switches to a stable positioning, ensuring focus remains on the vehicle's engine inspection.\"\n}\n```"
+        }
+    ]
+}

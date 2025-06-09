@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The video shows a small blue aircraft with the text 'SA SKYDIVE' painted on its side. A man dressed in parachute gear, including a harness, gloves, and a blue jacket, is seated at the open door of the aircraft. He appears to be preparing for a skydiving activity while two other individuals, also wearing parachute gear, stand near him. One is in a black hoodie with orange and blue pants, and the other is in a red and black checkered shirt with similar orange and blue pants. These individuals observe and possibly assist him in checking his equipment. In one section, the seated man adjusts his harness and equipment. The event appears to be taking place outdoors at a skydiving site, as seen by the surrounding elements such as a yellow airstrip marker flag, open green fields, and a clear sky with some scattered clouds.",
+            "camera_angle": "The camera is positioned at eye level, capturing the subjects and the aircraft from an angle directly facing the open aircraft door.",
+            "camera_movement": "The camera remains static in most parts, capturing the interactions without any notable panning, tilting, or zooming.",
+            "video_background": "The setting includes an open outdoor area with a clear, sunny sky and some scattered clouds. The ground is composed of reddish sand, indicating a desert-like environment. A yellow airstrip flag is visible in the distance, and surrounding green fields stretch toward the horizon. The interior of the aircraft shows a simple design with blue walls and bench seating.\"\n}\n```"
+        },
+        {
+            "video_content": "The video takes place inside a small aircraft. Several individuals are present. One person wearing a blue jumpsuit with skydiving gear, including a helmet and gloves labeled 'SEND IT,' is seated next to a person in a red flannel shirt who is tethered to the skydiving instructor using a harness. This appears to be a pre-skydiving preparation, as safety checks and communication are taking place. The instructor is ensuring that all harness points are secured, holding onto the harness strap on the chest of the other individual. Another person is seated towards the front, wearing headphones, likely the pilot, operating the controls and gauges visible in the cockpit area. A GPS or monitoring device is also seen mounted near the front dashboard. The mood is focused on preparation and ensuring all safety measures are in place before the skydive.",
+            "camera_angle": "The camera is positioned at eye level, providing a clear view of the interior of the aircraft, focusing on the skydiving instructor and the person in the red flannel shirt.",
+            "camera_movement": "The camera remains stable throughout, capturing the interaction between the skydiving instructor and the individual while focusing on the safety gear.",
+            "video_background": "The background displays the interior of the aircraft, characterized by a blue framework, visible windows through which the wings and green landscape below can be partially seen. The airplane cabin includes seats, a dashboard with gauges, and an exit sign. Light entering through the windows provides natural illumination.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The second clip continues with participants from the first clip now inside the aircraft. The man in the red and black checkered shirt is seen tethered to the skydiving instructor who ensures that harness points are secured. The pilot is visible operating the aircraft. The safety checks and preparation are ongoing as more details of the skydiving gear are visible, including helmets and gloves.",
+            "change_in_video_content": "The setting shifts from the exterior of the aircraft to its interior. Additional details such as the cockpit, dashboard, gauges, and GPS device become visible. The pilot, wearing headphones, is now part of the scene, and the focus transitions to close-up interactions between the instructor and the individual in the red checkered shirt.",
+            "continuation_in_video_background": "The skydiving theme persists with visible gear and interaction. The aircraft remains central to the background.",
+            "change_in_video_background": "The background shifts from the open outdoors with a clear sky, fields, and airstrip elements to the interior of the aircraft, featuring seats, windows, and visible aircraft components like the cockpit and wings.",
+            "change_in_camera_angle": "The angle changes from an exterior focus facing the open door of the aircraft to an interior perspective at eye level, directed at the instructor and tethered individual.",
+            "change_in_camera_movement": "The camera remains static in its positioning but focuses on closer views of interactions and equipment within the confined aircraft interior."
+        }
+    ]
+}

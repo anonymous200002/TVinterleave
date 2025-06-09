@@ -1,0 +1,82 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A person is standing in front of a large green chalkboard, on which a diagram and the words 'Circulatory system' are written in English. Two question marks are drawn next to the diagram, possibly indicating areas of focus or inquiry. The individual is wearing a bright yellow shirt with green suspenders and is holding a notebook and other items in their hands. The setting suggests a classroom environment where the person appears to be engaged in an educational or demonstrative activity, possibly related to teaching or presenting information regarding the circulatory system.",
+            "camera_angle": "The camera captures the scene from a straight-on angle, centered on the individual and the chalkboard behind them.",
+            "camera_movement": "The camera maintains a steady focus without any noticeable movements such as panning or tilting.",
+            "video_background": "The background is dominated by a green chalkboard with white chalk writings and diagrams. Some text at the bottom of the screen is in Russian, but it is not clear in the given context. The atmosphere is bright, indicative of artificial lighting that is common in indoor classroom settings."
+        },
+        {
+            "video_content": "The video shows a close-up view of two hands with well-manicured pink nails interacting with a piece of bright green paper. The paper is roughly cut and irregularly shaped, with visible creases suggesting prior folding or crumpling. The hands appear to be delicately manipulating the paper, possibly in a craft or demonstration activity. At the bottom of the frame, there is some Cyrillic text partially visible, further indicating that this could be an instructional or educational clip. The focus is solely on the hands and the paper, with no other objects or characters present.",
+            "camera_angle": "The camera angle is directly overhead, providing a clear and unobstructed view of the hands and the green paper from above.",
+            "camera_movement": "There is no noticeable camera movement; it remains static, maintaining focus on the subject throughout the clip.",
+            "video_background": "The background is simple and uncluttered, consisting of a plain white surface which helps to highlight the action of the hands and the vivid green paper. Lighting is even, bright, and well-distributed, eliminating any shadows and ensuring clarity in the action.\"\n}\n```"
+        },
+        {
+            "video_content": "The video demonstrates a craft involving a piece of paper and an arrow cut-out. Initially, two hands gently hold a bright pink square paper with an arrow cut-out in the center. As the sequence progresses, the hands manipulate the paper, giving a view of its features, especially the arrow motif. The pink square features a central cut-out design in the shape of a double-ended arrow, with clear, straight edges. In the final part, the backdrop of the craft becomes visible, highlighting the vivid contrast between the pink paper and the wooden surface beneath. Below the work area, there is some text in Cyrilic that reads 'БЕРИ И ДЕЛАЙ.' Through this manipulation, the paper arrow cut-out becomes a separate entity, revealing the creative work behind optical illusions or DIY tutorials.",
+            "camera_angle": "The perspective is a top-down view, focusing on the hands and the paper, which remains centered throughout the demonstration.",
+            "camera_movement": "The camera remains steady without any noticeable movement, maintaining a fixed angle to capture the detailed craft manipulation clearly.",
+            "video_background": "The background consists of a light wooden surface, providing a neutral and unobtrusive setting that contrasts well with the vibrant pink paper. Lighting is adequate and evenly distributed, ensuring no shadows obstruct the clear view of the hands and craft materials.\"\n}\n```"
+        },
+        {
+            "video_content": "The video shows a demonstration of using a pink arrow-shaped paper with attached round magnets. A hand, with well-manicured nails, places a small circular magnet, enclosed in transparent tape, at one end of the paper arrow on a wooden surface. This step is repeated at the opposite end of the arrow, effectively securing the magnets. Next, the hand moves along the paper arrow, gently pressing on the magnetic spots to ensure they are affixed firmly. Finally, the hand picks up the arrow to demonstrate the completed assembly, showcasing the magnets attached securely to both ends of the arrow, indicating the effectiveness of the process. The text 'УПАКОВОЧНАЯ ЛЕНТА' and 'БЕРИ И ДЕЛАЙ', written in Russian, appears at the top and bottom of the view throughout.",
+            "camera_angle": "The camera captures the scene from an overhead angle, focusing directly on the objects and actions taking place on the wooden surface.",
+            "camera_movement": "The camera maintains a steady position with no noticeable movement or zooming, ensuring a clear and unchanging focus on the hand and paper arrow.",
+            "video_background": "The background consists of a wooden surface with a smooth texture, providing a neutral and simple setting. There is consistent ambient lighting without strong shadows or highlights, allowing for clear visibility of the objects and actions being performed.\"\n}\n```"
+        },
+        {
+            "video_content": "A hand with a prominent thumb is holding a bright pink triangular paper clip, which is being used as a bookmark on the page of an educational book. The page specifically discusses the circulatory system, detailing components like the heart, blood vessels, and various types of blood cells, highlighting terms such as 'plasma' with bold text. The text is in English. The hand pauses momentarily as it points to different parts of the text, indicating a likely focus on understanding or highlighting specific information. There is another set of text at the bottom of the page in Russian, reading 'БЕРИ И ДЕЛАЙ'.",
+            "camera_angle": "The camera is positioned at an overhead angle, focusing closely on the book page and the thumb holding the paper.",
+            "camera_movement": "The shot remains mostly static, as the hand gradually moves the bookmark along the page, without any noticeable camera movement.",
+            "video_background": "The background is a simple light sky-blue color, providing a clean and uncluttered contrast to the white page and pink paper. The lighting is bright, evenly illuminating the text and allowing for clear readability."
+        },
+        {
+            "video_content": "A hand with well-manicured nails is seen using a clear syringe filled with blue glitter glue. The hand delicately extrudes the glitter glue onto a piece of graph paper, which is part of a spiral-bound notebook. The process of applying the glue is methodical, creating characters and shapes on the notebook. Initially, the glue is used to form a heart shape, followed by the formation of letters. As the sequence progresses, the letters 'S', 'C', 'H', 'O', 'O', 'L' become visible, spelling out the word 'SCHOOL' next to the heart shape. This suggests a crafting or decorative activity, likely intended for educational purposes or to add creative embellishments to school-related materials. The text at the top reads 'КЛЕЙ С БЛЕСТКАМИ', and at the bottom, it reads 'БЕРИ И ДЕЛАЙ', indicating the language of the content, which is Russian.",
+            "camera_angle": "The camera captures the scene from a slightly elevated, top-down angle, focusing closely on the notebook and the hand operating the syringe.",
+            "camera_movement": "The focus remains steady with no significant panning or tilting. The camera maintains a consistent distance from the object, ensuring the activity is in clear view.",
+            "video_background": "The background is a wooden surface that supports a pink pencil lying nearby. The environment is well-lit, highlighting the craft activity. The surface appears clean and organized, with the notebook and a yellow paper clip adding to the stationary theme."
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The educational theme continues with a focus on manual interaction with a piece of green paper, possibly demonstrating a task or concept related to the circulatory system.",
+            "change_in_video_content": "The focus shifts from an individual presenting in front of a chalkboard to a close-up of hands manipulating green paper, suggesting a hands-on demonstration or craft activity.",
+            "continuation_in_video_background": "Bright lighting is consistent, aiding visibility of the key elements in each clip.",
+            "change_in_video_background": "The background changes from a classroom setting with a chalkboard to a simple white surface that emphasizes the paper activity.",
+            "change_in_camera_angle": "The angle changes from a straight-on shot to an overhead view, focusing directly on the hands and paper.",
+            "change_in_camera_movement": "The static camera remains steady in both clips, with no noticeable movement.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The continuity between the two clips lies mainly in the presence of hands performing craft activities using colored paper on a plain surface. The focus remains on the manipulation of paper, progressing from handling a single piece of irregularly shaped green paper in the first clip to a structured pink paper with an arrow cut-out in the second. Throughout both clips, there is no introduction of new characters; the hands are the only actors, performing specific actions on paper, emphasizing the instructional nature of both video segments.",
+            "change_in_video_content": "The primary change in video content from the first to the second clip is the transition from a green irregularly shaped paper to a pink square paper featuring a central double-ended arrow cut-out. In the first clip, the hands delicately manipulate the green paper, while in the second, they focus on separating the arrow-shaped cut-out from the pink paper, emphasizing the crafting result. The second clip introduces a concept of creating a paper piece with a recognizable design, departing from the basic folding and manipulation seen in the first clip.",
+            "continuation_in_video_background": "The simplicity and cleanliness of the backdrop are maintained in both clips, ensuring that the background does not distract from the craft activities.",
+            "change_in_video_background": "The video moves from a plain white surface background in the first clip to a light wooden surface in the second, offering a slight environmental shift while maintaining visual clarity.",
+            "change_in_camera_angle": "There is no change in camera angle, with both clips maintaining a top-down perspective focusing on the central activity area.",
+            "change_in_camera_movement": "There is no change in camera movement; both clips have a static camera with no noticeable panning or zooming.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The second clip continues by taking the paper arrow cut-out from the first clip and enhancing it with round magnets. A hand places circular magnets on both ends of the arrow, securing them with tape. After attaching the magnets, the hand verifies their placement by pressing along the arrow. The arrow, now reinforced with magnets at each end, is then lifted by the hand to showcase the final assembly, demonstrating the process of using the cut-out for functional purposes. The text ‘БЕРИ И ДЕЛАЙ’ remains visible throughout both clips.",
+            "change_in_video_content": "The first clip focused on creating a craft from a square of paper with an arrow cut-out, ending with its separation. The second clip introduced new elements: circular magnets and clear tape. The emphasis shifted from demonstrating a paper craft to assembling functional magnetic ends for the arrow, using the previously created cut-out as a base.",
+            "continuation_in_video_background": "The background persists as a wooden surface, providing consistent visibility and contrast with the pink paper and additional materials introduced.",
+            "change_in_video_background": "No noticeable change; the wooden surface remains constant, while additional text ‘УПАКОВОЧНАЯ ЛЕНТА’ appears, coinciding with the use of tape.",
+            "change_in_camera_angle": "The camera angle remains from above, with a direct overhead view of the ongoing steps, shifting focus from larger paper to detailed magnet application.",
+            "change_in_camera_movement": "The camera stays steady without movement or zooming, as the focus changes from a broad view of paper manipulation to close-up interactions with the magnets.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The second clip continues to feature a hand interacting with a pink paper object. This time, the object, now a triangular paper clip, is used as a bookmark in an educational book. The focus is on the text about the circulatory system with the hand pointing at various sections. The recurring element is the pink paper and the involvement of the hand.",
+            "change_in_video_content": "The change in video content involves the transition from assembling a paper arrow with magnets to using a triangular paper clip as a bookmark within a book. The first clip shows a tabletop assembly process, while the second clip highlights educational text interaction.",
+            "continuation_in_video_background": "The background maintains simplicity and clarity, ensuring the visibility of the main elements.",
+            "change_in_video_background": "The background shifts from a wooden surface to a sky-blue backdrop, complementing the book's white page and enhancing brightness.",
+            "change_in_camera_angle": "The camera angle remains overhead but now focuses on the book page.",
+            "change_in_camera_movement": "The camera continues to remain mostly static, focusing consistently on the actions of the hand.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The second video clip continues with a focus on hand activities involving educational materials. In the initial clip, the hand engages with a book, discussing the circulatory system, using a triangular pink paper clip to mark the page. In the latter clip, the hand now shifts to crafting activities, utilizing a clear syringe filled with blue glitter glue to create decorative shapes and text on graph paper within a notebook. The transition involves detailed crafting actions, where the glitter glue forms a heart and spells out 'SCHOOL', transitioning from highlighting educational content to creating related adornments.",
+            "change_in_video_content": "The change in video content involves a shift from marking text in an educational book about the circulatory system to crafting with glitter glue on graph paper. Characters and actions transition from a focus on textual information to the creative rendering of shapes and letters, introducing new crafting materials such as a syringe filled with glitter glue and a spiral-bound notebook.",
+            "continuation_in_video_background": "The second clip maintains a well-lit environment that highlights the details of the activities being performed.",
+            "change_in_video_background": "The background changes from a light sky-blue color behind the page to a wooden surface where a pink pencil is placed beside the notebook, aligning with a crafting theme.",
+            "change_in_camera_angle": "The camera angle shifts from an overhead angle focusing on a book page to a slightly elevated top-down angle over a notebook.",
+            "change_in_camera_movement": "Both clips maintain a steady focus, but the second clip shows consistent proximity to the crafting action without noticeable movement.\"\n}\n```"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A woman with long, light brown hair is showcasing a craft tutorial. She is wearing a denim jacket and a white beaded necklace. In one hand, she holds a small round, red plastic container with a screw cap removed, while in the other, she holds a yellow hot glue gun with a metallic nozzle. The video progresses to demonstrate the process of applying hot glue, with the nozzle of the glue gun aimed toward the container. Throughout the video, there is text in another language, written in bold white characters, appearing near the top and bottom portions of the scene.",
+            "camera_angle": "The camera captures a front-facing, close-up view of the woman and the objects she is handling.",
+            "camera_movement": "The camera remains stationary with no noticeable panning, tilting, or zooming throughout the demonstration.",
+            "video_background": "The background features a well-lit, brightly colored setting with purple walls and white shelves containing various decorative items. Visible objects include a rainbow ornament, potted plants, pink neon heart light, brushes in a holder, and floral elements. The scene is evenly lit, with no shadows or dim areas.\"\n}\n```"
+        },
+        {
+            "video_content": "The video shows a collection of small, cylindrical plastic paint containers arranged on a white surface. Initially, four open jars with visible paint—red, yellow, white, and black—are shown. Gradually, additional open paint jars of green, blue, and purple are added to the arrangement, forming a circular or semi-circular pattern. Some jars have their lids placed on top or next to them, while others remain open, revealing the paint inside. Around the paint jars, a clear glass of water is positioned to the right and partially below them, while two paintbrushes lie horizontally near the top left corner—one with a red handle and the other with a purple handle. The surface itself appears to have faint traces of colorful smudges or paint marks in green, blue, and possibly pink. In the lower part, a faint blue paint stroke is visible on what seems to be a piece of white paper. Below the jars, Cyrillic text reading 'БЕРИ И ДЕЛАЙ' is displayed.",
+            "camera_angle": "The camera is positioned above the scene at a slightly angled top-down perspective, focusing on the jars and surrounding objects.",
+            "camera_movement": "The camera remains steady without any visible movements, maintaining a fixed perspective on the arrangement of paint jars and surrounding items.",
+            "video_background": "The background is a white, flat surface that provides a neutral and clean setting. There are faint paint smudges scattered across the area, likely from prior use. In the surrounding space, elements such as paintbrushes and the glass of water add context to an artistic or creative activity environment. The lighting is bright and uniform, eliminating shadows and ensuring all objects are well-illuminated.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The action progresses from the demonstration of the hot glue gun and the red container to a display of small cylindrical paint containers. The second clip showcases cylindrical jars of paint in various colors, including red, yellow, white, black, green, blue, and purple, which are arranged on a white surface. Nearby are a clear glass of water and two horizontal paintbrushes. Some paint lids are placed near the jars, while others remain on the jars.",
+            "change_in_video_content": "The initial focus on the woman holding a red container and a hot glue gun is replaced by an arrangement of paint jars on a white surface with occasional additional art tools like brushes and a water glass visible.",
+            "continuation_in_video_background": "The brightly colored purple background with shelves and art decorations transitions to a plain white flat surface with faint paint smudges and a focused layout of artistic tools.",
+            "change_in_video_background": "The decorative purple background with shelves and neon lights is replaced by a clean white flat surface with faint paint marks and scattered creative materials.",
+            "change_in_camera_angle": "The camera angle changes from a front-facing close-up view of the woman to a slightly angled top-down perspective focusing on the paint jars.",
+            "change_in_camera_movement": "The camera remains stationary in both clips but shifts perspective from an eye-level view in the first clip to a top-down view in the second.\"\n}\n```"
+        }
+    ]
+}

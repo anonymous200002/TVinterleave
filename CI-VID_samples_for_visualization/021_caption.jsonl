@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A person wearing a bright yellow top holds a pink pen with a heart-shaped decoration at its tip. The heart decoration consists of multiple colorful layers resembling a candy or dessert, including pink, white, and yellow stripes. Another individual extends their hand towards the person holding the pen, seemingly indicating interaction with the object. The text 'БЕРИ И ДЕЛАЙ' is displayed in Russian at the bottom of the screen throughout the video. The setting is indoors, and various objects are placed in the background on shelves, including decorative items with colorful accents and a potted plant.",
+            "camera_angle": "The camera maintains a frontal close-up angle, focusing on the upper body of the person holding the pen and the interaction with the extended hand.",
+            "camera_movement": "The camera remains stationary throughout, with no visible zoom, pan, or tilt during the recorded duration.",
+            "video_background": "The background features a well-lit indoor environment with pastel-colored walls. Shelves display decorative items, including a sculpture resembling a human figure, a white object with lit-up elements, colorful spheres, and a green potted plant.\",\n}\n```"
+        },
+        {
+            "video_content": "A person with long dark brown hair wearing a light green shirt is holding a pink pen. Initially, the pen is plain. Gradually, a decorative object resembling a layered cake with a heart shape is attached to the top of the pen. The person briefly showcases the pen with the decoration as the focus shifts to it. Text in Cyrillic script, 'БЕРИ И ДЕЛАЙ,' appears at the bottom of the screen.",
+            "camera_angle": "The camera is positioned at eye level, facing directly toward the subject and focusing on the upper body and hands.",
+            "camera_movement": "The camera remains steady with no noticeable movements such as zooming or panning. The focus shifts slightly to emphasize the pen decoration.",
+            "video_background": "The background features a well-lit, colorful indoor setting with shelves containing decorative objects such as a lit '&' symbol, small ornaments, plants, and brightly colored items. A signboard with text in Cyrillic and green and white colors is visible to the side.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The second clip focuses on the same person, now holding a plain pink pen. The clip shows the gradual attachment of a decorative heart-shaped object resembling a layered dessert to the top of the pen. A brief showcase of the completed pen with the decoration follows. The text '\\u0411\\u0415\\u0420\\u0418 \\u0418 \\u0414\\u0415\\u041B\\u0410\\u0419' persists at the bottom in Russian.",
+            "change_in_video_content": "The first clip features the already decorated pen during an interaction with another individual’s extended hand. In contrast, the second clip presents the creation process, starting with a plain pen and attaching the decoration.",
+            "continuation_in_video_background": "The indoor background with pastel-colored walls and shelves containing decorative items such as plants, ornaments, and lit objects is consistent.",
+            "change_in_video_background": "A signboard with Cyrillic text and green-and-white colors that was not mentioned in the first clip is more clearly visible in the second clip.",
+            "change_in_camera_angle": "The camera angle remains at eye level but shifts slightly to emphasize the decoration process on the pen in the second clip.",
+            "change_in_camera_movement": "The camera remains mostly stationary in the second clip, with focus shifts highlighting the transformation of the pen.\"\n}\n```"
+        }
+    ]
+}

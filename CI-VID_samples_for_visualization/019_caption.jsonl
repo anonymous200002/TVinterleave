@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A person holds a pink sausage-like food item coated with a layer of red sauce, topped with finely grated cheese. The close-up view showcases the smooth texture of the sausage surface, contrasting with the shredded cheese's fibrous appearance. The person's hands and well-manicured nails are clearly visible as they gently grip the food item. The sausage is horizontally positioned and carefully garnished, suggesting it is intended to be consumed soon. Text in Russian, 'БЕРИ И ДЕЛАЙ,' appears, indicating some form of instruction or slogan that might relate to a food preparation or consumption activity. The scene focuses on presenting the details of the food and its garnished presentation, likely explaining or showcasing a quick recipe or snack preparation.",
+            "camera_angle": "The camera captures the subject from a straight-on angle, focused on the food item held by the person, highlighting the details of the garnishes and hands.",
+            "camera_movement": "The perspective remains fixed without noticeable panning, tilting, or zooming, maintaining a steady close-up view of the food item and hands throughout.",
+            "video_background": "The background features a soft gradient of light green and beige hues, blending together softly to create a neutral backdrop. Indirect lighting softly illuminates the scene, accentuating the brightness and texture of the food item. This simple background ensures that the viewer's attention remains focused on the central subject without any visual distractions."
+        },
+        {
+            "video_content": "Two individuals interact with each other with animated expressions and gestures. The man wears a light blue shirt with pink suspenders, while the woman is dressed in a vibrant yellow top, complemented by a decorative hair tie. Between them, a playful exchange takes place, involving hand gestures and body movements suggesting conversation or sharing secrets. A tattoo is visible on the woman's forearm, showcasing a stylized leaf pattern. Behind them, a colorful DNA model serves as an eye-catching prop, adding a touch of scientific flair to the setting. The Russian text 'БЕРИ И ДЕЛАЙ' is visible at the bottom center, adding context to the dialogue or theme present in their interaction.",
+            "camera_angle": "The camera is level with the subjects, capturing the interaction from a front-facing angle, centers the upper body of the individuals.",
+            "camera_movement": "The camera remains focused and steady without any noticeable panning, tilting, or zooming, ensuring a clear view of the interaction between the subjects.",
+            "video_background": "The background is a well-lit room with shelves and bright colors, including the DNA model. Light and pastel tones contribute to a clean and modern environment, highlighting the subjects and their animated interaction. The diffused lighting ensures the focus remains on the central activities, enhancing the setting's open and inviting appearance."
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The first clip shows the preparation of a sausage snack, focusing on the food item. The second clip shifts to two individuals interacting animatedly, suggesting they may discuss or react to the dish prepared earlier.",
+            "change_in_video_content": "The second clip introduces two people in conversation and visual props like a DNA model, unlike the first clip's focus solely on food preparation.",
+            "continuation_in_video_background": "A colorful and bright setting with elements like a DNA model is common, maintaining a youthful and vibrant ambiance.",
+            "change_in_video_background": "The second clip includes detailed background props such as shelves and a colorful DNA model.",
+            "change_in_camera_angle": "The camera angle changes from a close-up to a frontal perspective of two individuals.",
+            "change_in_camera_movement": "Camera remains steady in both clips, with no noticeable movement changes."
+        }
+    ]
+}

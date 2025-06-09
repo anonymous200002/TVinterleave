@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The video shows an individual wearing a light green T-shirt in a brightly lit indoor setting. In the latter part of the clip, the person is holding up a bright blue stuffed toy with long limbs, yellow hands and feet, large eyes, and a wide mouth displaying sharp teeth, resembling a character from popular culture. The background displays bookshelves with objects such as books, trophies, and colorful sticky notes. To the left of the person, part of a green plant with red accents is visible, adding a natural element to the environment.",
+            "camera_angle": "The camera is positioned at a front-facing medium close-up angle, focusing on the upper body of the person and the object they are holding.",
+            "camera_movement": "There is no significant camera movement; the perspective remains steady throughout, emphasizing clarity on the person and the toy being presented.",
+            "video_background": "The setting is a colorful indoor space with a blue wall featuring various decorations like sticky notes and a text logo. Bookshelves in the background contain books, trophies, and other items. A green plant with red accents is present on the left side. Lighting is bright and evenly distributed, ensuring all elements are clearly visible.\"\n}\n```"
+        },
+        {
+            "video_content": "A young man wearing a mint green shirt sits at a desk, holding up a blue plush toy character with red lips, sharp teeth, wide eyes, and yellow hands and feet. Next to him, a woman in a bright pink sleeveless top, with a tattoo visible on her right arm, sits at another desk, engaging in an action involving colorful supplies such as rainbow-colored paper. Behind them, a large blue figure resembling the plush toy can be seen standing upright, featuring the same distinct yellow hands. The desks are cluttered with educational and crafting supplies, such as a notebook, pens, and rainbow-themed items. On the wall behind them are shelves containing educational decor like books, models of a red ship, plants, and a microscope. Colorful posters, including illustrations of plants and butterflies, are also visible. Cyrillic text 'БЕРИ И ДЕЛАЙ' appears on the desk surface in front of them.",
+            "camera_angle": "The camera adopts a straight-on medium shot, focusing on the subjects from the waist up.",
+            "camera_movement": "The camera remains static, maintaining a steady focus on the subjects and objects in the frame.",
+            "video_background": "The background consists of a blue-green wall decorated with educational and decorative elements, such as shelves holding books, small models, and plants. Posters with plant graphics and butterfly illustrations are visible. The setting appears to be an educational or creative classroom environment with bright, even lighting highlighting the subjects and their activities.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The young man continues holding the blue plush toy, but now a woman in a pink sleeveless top joins the scene, sitting next to him at an adjacent desk. She engages in crafting activities with colorful supplies visible. A large version of the blue plush character appears in the background, standing upright with noticeable yellow hands.",
+            "change_in_video_content": "The addition of the woman and her crafting interaction introduces a new action. The large blue plush character in the background adds a new visual element, contrasting with the smaller toy held by the man.",
+            "continuation_in_video_background": "The background continues featuring bookshelves, colorful objects, plants, and bright wall decorations, including posters and sticky notes.",
+            "change_in_video_background": "A poster with butterfly illustrations and plants becomes more prominent in the scene, while additional elements such as the large blue character add new dimensions to the background.",
+            "change_in_camera_angle": "The angle shifts to a medium shot that captures both seated individuals from the waist up.",
+            "change_in_camera_movement": "The camera remains static, maintaining a steady focus on the two individuals and surrounding objects.\"\n}\n```"
+        }
+    ]
+}

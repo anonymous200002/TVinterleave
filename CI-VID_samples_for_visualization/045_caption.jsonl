@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A baseball player dressed in a green and yellow uniform, identified by the text overlay as Mark Canha, is running during a game. The player is wearing a helmet and appears to be rounding the bases after hitting a home run, as indicated by the overlay stating '13TH HOME RUN THIS SEASON'. The player's uniform includes specific details like the A's logo. The event takes place in a baseball stadium with a blurred background showing spectators. The player maintains a focused expression as he swiftly rounds the bases, suggesting a successful play.",
+            "camera_angle": "The camera captures a close-up side view of the player running, focusing on the upper body and part of the field.",
+            "camera_movement": "The camera tracks the player smoothly as he runs, maintaining focus on him throughout the scene.",
+            "video_background": "The setting is a baseball stadium with rows of seats and indistinct spectators. The lighting indicates it's a day game, with bright, natural light illuminating the scene.\"\n}\n```"
+        },
+        {
+            "video_content": "A baseball player, identified as Mark Canha, is running along the baseline after hitting a home run, as indicated by the on-screen text stating '13th HOME RUN THIS SEASON.' He wears a dark green uniform with gray pants, and a helmet. The video captures his progress as he runs towards home plate. As he nears the base, another player, dressed in a blue and red uniform with protective gear, stands near home plate, possibly the catcher. The umpire is visible off to the side, indicating the official nature of the game. The game screen shows the score and details: OAK 1, TEX 2, in the bottom of the third inning with one out. The action is happening in a sunlit stadium, with a clear blue sky and significant advertising banners visible in the background.",
+            "camera_angle": "The camera captures the player from a slightly lower angle, emphasizing his movement along the baseline approaching home plate.",
+            "camera_movement": "The camera smoothly tracks the player's movement as he runs, keeping him in focus and centered in the frame without panning or zooming out.",
+            "video_background": "The setting is a large baseball stadium with multiple tiers of seating, partially filled with spectators. Various advertising banners and digital screens are prominently displayed. The weather appears clear, indicating a sunny day. The field is well-maintained with vibrant green grass and a reddish-brown dirt track around the diamond.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "Mark Canha continues running after his home run in a baseball stadium. He approaches home plate where a catcher and an umpire are visible, confirming a play is ongoing. The scoreboard displays game details, showing a competitive match status. The player is completing his run around the bases, nearing the conclusion of his home run.",
+            "change_in_video_content": "The player's surroundings change from a mid-run sequence to nearing home plate, with the catcher and umpire present. The scoreboard showing 'OAK 1, TEX 2' is a new addition, providing specific game details. The emphasis shifts from the running sequence to the impact of the home run on the game.",
+            "continuation_in_video_background": "The baseball stadium remains the setting with spectators, indicating an ongoing game day.",
+            "change_in_video_background": "Advertising banners and digital screens become visible, in addition to clearer weather conditions with a bright sky.",
+            "change_in_camera_angle": "The angle shifts from a side view to a lower perspective, highlighting the player’s approach to home plate.",
+            "change_in_camera_movement": "The camera remains focused and centered on the player without zooming out, maintaining a smooth track.\"\n}\n```"
+        }
+    ]
+}

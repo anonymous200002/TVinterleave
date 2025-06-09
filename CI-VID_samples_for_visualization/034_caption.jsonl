@@ -1,0 +1,54 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The video begins by showcasing the interior of a car, focusing on the gear shift area. The gear shift has a unique, orange translucent knob with a spiral design inside, mounted on a black leather cover. The surrounding area includes a black dashboard with dials, buttons, and a digital display. Following this, the video transitions to an outdoor setting near a building with a corrugated metal roof visible. A man in a black t-shirt is seen standing outside the car. The shirt has a logo on the chest depicting a red and white graphic with text. The man places one hand on his hip while leaning slightly forward to converse with someone inside or near the vehicle. The camera continues to capture the man in different poses as he maintains this stance, suggesting a casual interaction. The surroundings include hints of trees and parked vehicles in the background.",
+            "camera_angle": "The initial perspective is a close-up shot focused on the car's gear shift and dashboard followed by an upward angle showing the man from a lower position.",
+            "camera_movement": "The camera initially remains stationary on the car's interior and then shifts to a person, capturing different angles of him by tilting and slightly adjusting focus.",
+            "video_background": "The interior background includes the black dashboard and car seats with embroidered brand names. In the outdoor scene, the background features a building with a corrugated metal roof, trees, and other parked vehicles under natural daylight.\"\n}\n```"
+        },
+        {
+            "video_content": "A person is positioned next to an open car door, likely sitting in or leaning out of the driver's seat. The individual wears a black shirt and has short, light-colored hair. Their torso is partially visible as the camera alternates between focusing on the exterior setting and capturing interior details. In the concluding moments, the camera shifts to show the car's interior, focusing briefly on the dashboard and circular instrument clusters, potentially speedometers or tachometers. The surroundings include a metallic industrial building, as well as parts of other vehicles parked nearby. The background transitions to greenery visible beyond the dashboard in the final shot.",
+            "camera_angle": "The camera primarily captures a close-up of the upper body from a slightly low perspective, later switching to an interior view focusing on the car's dashboard.",
+            "camera_movement": "The camera exhibits slight adjustments in framing during close-ups and shifts focus towards the car’s interior by pointing downward and panning slightly.",
+            "video_background": "The background includes a metallic industrial building with vertical patterns and adjacent parked vehicles. Visible through the open car door is a mix of outdoor industrial structures and greenery, which contrasts with the dimly-lit vehicle interior.\"\n}\n```"
+        },
+        {
+            "video_content": "A person wearing a black shirt with visible text or graphic on the back is outside near a parked black car. The car is stationary with the trunk open. The individual, wearing gloves, is interacting with the car's trunk area, leaning inside, potentially inspecting or arranging items. The car has text decals on the rear, and the immediate setting includes a building with a visible window and textured brickwork. The individual moves dynamically around the car's rear, engaging with the trunk in an active, purposeful manner.",
+            "camera_angle": "The camera captures the action from slightly below and by the side of the subject, focusing on the lower half of the person, car trunk, and surroundings.",
+            "camera_movement": "The camera is handheld, with movement slightly jarring and erratic, occasionally changing focus and angle toward the subject's activity near the car.",
+            "video_background": "The background includes an outdoor setting next to a building with light-colored walls, a visible window with dark framing, and a roof overhang. The ground appears to be paved with light-colored brickwork, and nearby lies a patch of gravel. Daytime lighting is bright but natural, without visible artificial light sources.\"\n}\n```"
+        },
+        {
+            "video_content": "A person wearing a black t-shirt with a design and the words 'SR20 Problems' printed on it is standing near a car that has its hood open. The individual is also wearing black gloves, possibly for handling car-related tasks. The person uses hand gestures, including pointing with one finger, suggesting explanations or instructions. The car hood, which is metallic and reflective, is visible, and various objects are seen in the vicinity, including an air conditioning unit and cylindrical containers. There is a window with a reflection of another person, indicating that others are nearby, and a wall with a tiled design forms the background. The interaction seems focused on something related to the car near the open hood.",
+            "camera_angle": "The camera is positioned at approximately chest height, capturing the person from a medium close-up angle, with the car hood and background features partially visible.",
+            "camera_movement": "The camera remains relatively steady, with slight shifts to follow the person's movements and hand gestures without dramatic panning or zooming.",
+            "video_background": "The setting appears to be outdoors, with a building wall featuring light-colored tiles and a window. The ground has small gravel or stones, and nearby objects include an air conditioning unit and cylindrical containers.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The interior car elements and exterior interaction continue with views of the dashboard, outdoor structures, and an individual engaged with the car.",
+            "change_in_video_content": "The focus shifts more to a partially visible person leaning out of or sitting in the driver’s seat, with an added emphasis on the car’s open door and interior components like instrument clusters.",
+            "continuation_in_video_background": "The metallic industrial building, parked vehicles, and a mix of outdoor greenery persist in the background.",
+            "change_in_video_background": "The camera transitions to capturing greenery beyond the car’s dashboard during the final moments of the second clip.",
+            "change_in_camera_angle": "The angle changes to low close-ups focused on the individual near the car and later switches to showcase the car's interior.",
+            "change_in_camera_movement": "The camera exhibits more dynamic transitions, including downward panning and varying focus between the person and car interior.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The subject continues to interact with the car, shifting from being inside or at the driver's side to the rear of the vehicle, focusing on the trunk area. The black shirt remains consistent, and gloves are added. The actions involve actively engaging with items in the trunk, suggesting a shift from inspecting the interior to working externally near the car's rear.",
+            "change_in_video_content": "The perspective changes from capturing interior details and the subject's upper body to the subject actively interacting with the open trunk. The decals on the car rear and building textures become new visual elements.",
+            "continuation_in_video_background": "The industrial-themed location continues to frame the scene, with an emphasis on vehicles and buildings nearby.",
+            "change_in_video_background": "The background transitions from the metallic industrial structure and greenery visible through the car to a light-colored building with a window and textured brickwork, alongside gravel on the ground.",
+            "change_in_camera_angle": "The angle changes from close-ups on the subject's torso and the car interior to a wider, lower perspective near the trunk and the surroundings.",
+            "change_in_camera_movement": "The movement shifts from slight panning and downward adjustments to more erratic and handheld motions, capturing the dynamic trunk interaction from varying angles.\"\n}\n```"
+        },
+        {
+            "continuation_in_video_content": "The individual continues interacting with car-related tasks, transitioning from the car trunk to the hood. Dressed in the same black t-shirt and gloves, their actions suggest an active involvement with the car. The trunk scene with items being arranged is followed by a shift in focus to the vehicle's engine bay. The person makes hand gestures, including pointing, while discussing or explaining something, maintaining a hands-on engagement with the car. The open hood and various nearby items, such as an air conditioning unit and cylindrical containers, suggest a context centered on vehicle maintenance or inspection.",
+            "change_in_video_content": "The shift from the trunk to the hood introduces a different aspect of vehicle interaction. Visible printed words 'SR20 Problems' and gestures enhance the communicative element. The stationary car is now engaged with from the front, involving different parts and items around it, including reflective surfaces and containers, in contrast to the trunk scene.",
+            "continuation_in_video_background": "The outdoor environment persists with similar features such as light-colored walls and windows.",
+            "change_in_video_background": "The scene incorporates new elements around the front of the car like the air conditioning unit and tiled wall, adding industrial textures.",
+            "change_in_camera_angle": "The viewpoint shifts to a chest-height perspective focusing on the upper body, including hand gestures.",
+            "change_in_camera_movement": "The movement stabilizes, subtly adapting to follow hand gestures and minor shifts in position.\"\n}\n```"
+        }
+    ]
+}

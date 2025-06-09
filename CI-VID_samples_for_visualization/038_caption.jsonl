@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "The video depicts an indoor setting with an old-fashioned sewing table and chairs as key elements. The space has a rustic and cluttered appearance, with scattered objects on the floor. Two small mice are seen moving quickly across the floor, navigating the uneven surface. A person wearing a white blouse and light purple skirt enters the view, moving rapidly across the room. This individual reaches out and carefully picks up a sparkling, silver-colored high-heeled shoe placed on the sewing table. The detailed design of the shoe, with a glistening surface, stands out in the dim environment. The segment hints at deliberate actions and attention being directed toward the shoe.",
+            "camera_angle": "The camera predominantly focuses on a low-angle perspective, capturing the floor and then shifting upward to highlight the sewing table and the sparkling shoe.",
+            "camera_movement": "The camera exhibits subtle panning to follow the movement of the mice and the person, with a focused close-up at the end to showcase the shoe being picked up.",
+            "video_background": "The background includes walls made of stone, contributing to a rustic and vintage ambiance. The environment is dimly lit, with warm light sources creating soft shadows. There are scattered objects like fabric, candles, and a basket, adding to the cluttered and lived-in setting. A faint fireplace is visible in the deeper background, casting a muted orange glow.\"\n}\n```"
+        },
+        {
+            "video_content": "The scene begins with a pair of hands delicately handling a beige fabric on a table. Next to the fabric, there are various sewing supplies neatly displayed, including spools of thread, a woven basket, and other textile tools. The action then transitions to an individual wearing a white dress and a light-colored shawl-like garment running briskly within a cozy room adorned with stone walls. The person moves towards a wooden bed covered in a colorful patchwork quilt decorated with floral and geometric patterns. Finally, the individual leaps onto the bed, sitting on it and causing the quilt and pillows to shift slightly, displaying vibrant and tactile designs. The focus is on the actions unfolding in a softly lit, earthy-toned environment.",
+            "camera_angle": "The camera angles vary between close-up shots of the hands and fabric and medium shots capturing the individual within the bedroom setting.",
+            "camera_movement": "The camera transitions smoothly between a static close-up shot and tracking the movement of the individual as they run, leap, and settle onto the bed.",
+            "video_background": "The background is a warmly lit, rustic bedroom featuring stone walls, a wooden bed with vibrant bedding, a lit candle on a small shelf, and a mix of baskets and books scattered around. The ambiance is enhanced by natural and artificial warm light.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The continuation introduces the person engaging in sewing-related activities on a table, handling a beige fabric alongside sewing supplies. Subsequently, the individual is seen moving quickly to a wooden bed covered in a patchwork quilt and leaping onto it.",
+            "change_in_video_content": "The mice are no longer present. The focus shifts from the sparkling shoe to sewing supplies and fabric. The individual’s actions transition from retrieving the shoe to interacting with the bed and quilt.",
+            "continuation_in_video_background": "The stone walls and warm lighting persist, maintaining a rustic interior setting. The scattered objects and warmth from light sources continue to define the environment.",
+            "change_in_video_background": "The focus shifts from the sewing table to the bedroom area with a vibrant patchwork quilt on a wooden bed, adding new decorative elements.",
+            "change_in_camera_angle": "The angles shift between close-up shots of hands managing fabric to medium shots capturing the person interacting with the bedroom setting.",
+            "change_in_camera_movement": "The camera transitions from subtle panning and close-ups to tracking the person's movements, including a leap onto the bed.\"\n}\n```"
+        }
+    ]
+}

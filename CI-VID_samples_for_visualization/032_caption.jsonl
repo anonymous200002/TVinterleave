@@ -1,0 +1,26 @@
+{
+    "single_captions:": [
+        {
+            "video_content": "A person stands outside a recreational vehicle (RV) during the evening. The RV’s exterior is prominently visible, showcasing its distinct lines and markings on the door. The RV door has a small window and is surrounded by dynamic, angular decals that suggest motion. The lighting is somewhat dim, possibly indicating it's nighttime, but there's enough illumination to create a visible shadow of the person on the RV's surface. The shadow, accentuated by a nearby light source, moves as the person shifts slightly in position. This setup provides a stark visual contrast between the brightly lit RV and the darker surroundings, focusing on the interplay of light and shadow.",
+            "camera_angle": "A moderately close angle captures the person and the side of the RV, focusing primarily on the upper body and the RV door.",
+            "camera_movement": "The camera remains mostly stationary with subtle adjustments, possibly handheld, slightly shifting focus between the person and the RV backdrop.",
+            "video_background": "The scene is set against the backdrop of an RV exterior at night. Overhead lighting, likely from an exterior light fixture, casts prominent shadows against the RV. This lighting is the primary source in the otherwise dim surroundings, highlighting the RV’s textured metal surface and decals. The uniform structure of the RV is contrasted by the ambient darkness, providing a vivid setting."
+        },
+        {
+            "video_content": "The footage begins with a close-up view of a camper trailer, specifically showing a side door and a window. The exterior of the trailer is cream-colored with dark decorative designs, a handle, a mounted lock, and a visible sticker near the lower section of the door. A small external light on the trailer is illuminated, casting light on the surrounding surfaces. Later, the scene shifts to reveal a group of people standing outdoors near the trailer. They are dressed casually, with noticeable text on some clothing, including 'SEAT' prominently displayed on one individual's shirt. The scene is dark, suggesting nighttime, with artificial lighting illuminating the immediate area. Behind the group, fence railings are visible, hinting at a larger outdoor venue, possibly a field or parking area.",
+            "camera_angle": "The composition captures the trailer’s side door at an eye-level angle initially and later shifts to a mid-level perspective focusing on the individuals standing near the trailer.",
+            "camera_movement": "The camera remains mostly steady, with slight adjustments and shifts to include different angles of the trailer and showcase the individuals in the group.",
+            "video_background": "The background is dark, indicating nighttime, with artificial lighting including a small external lamp on the trailer and other light sources in the distant surroundings. The immediate environment includes the trailer, a visible group of people, fencing structures, and an open outdoor space.\"\n}\n```"
+        }
+    ],
+    "joint_captions:": [
+        {
+            "continuation_in_video_content": "The second clip continues focusing on the RV/camper trailer, beginning with a close-up shot of the door and window. Subsequently, the focus broadens to include a group of people standing near the trailer. They are casually dressed, with one shirt displaying the text 'SEAT' prominently visible. The RV remains visible alongside the individuals.",
+            "change_in_video_content": "The addition of a group of people standing near the trailer is introduced in the second clip. Specific design elements on the trailer and details such as a sticker, light, and nearby actions are shown. A visible change is the inclusion of casual attire and text on clothing.",
+            "continuation_in_video_background": "The dimly lit outdoor environment with noticeable artificial lighting remains consistent with the first clip. The RV continues to serve as a central visual feature.",
+            "change_in_video_background": "Fencing and a larger open space become evident in the background, hinting at a surrounding outdoor venue. The presence of the group adds more elements to the immediate area.",
+            "change_in_camera_angle": "The camera shifts from an upper-body-focused perspective of one individual to an eye-level close-up of the RV door and window, later capturing the group in a mid-level perspective.",
+            "change_in_camera_movement": "The camera transitions from slight handheld adjustments to more deliberate shifts, focusing sequentially from the RV door to the group standing near the trailer.\"\n}\n```"
+        }
+    ]
+}
