@@ -121,12 +121,11 @@ We use the same prompts as human evaluation perform a VLM-based evaluation.
 
 | Model       | Style | Entity | Background | Perspective | Prompt Align | Visual |
 |-------------|-------|--------|------------|-------------|--------------|--------|
-| Baseline    | 1.06  | 1.28   | 0.77       | 1.78        | 3.13         | 2.87   |
-| +InterVID   | 0.92  | 1.07   | 0.72       | 1.45        | 2.61         | 2.68   |
-| +OpenVID    | 1.01  | 1.44   | 0.80       | 1.66        | 2.98         | **3.05** |
-| **+CoI-VID** | **2.91** | **3.35** | **2.65** | **2.81** | **3.41** | 2.94 |
+| Baseline    | 3.07   | 2.84   | 2.80       | 3.02       | 3.99       | 3.25   |
+| **+CoI-VID** | **3.83** | **3.73** | **3.75** | **3.81** | **4.07** | 3.62  |
 
 ---
+
 
 ## 🎯 3. Similarity-based Evaluation
 
@@ -175,8 +174,6 @@ We construct a similarity-based evaluation dataset based on CoI-VID data. To avo
 | Model       | CLIP ↑ | 1-LPIPS ↑ | SSIM ↑ | CLIP (Obj) ↑ | 1-LPIPS (Obj) ↑ | SSIM (Obj) ↑ |
 |-------------|--------|-----------|--------|--------------|------------------|--------------|
 | Baseline    | 0.512  | 0.309     | 0.199  | 0.601        | 0.360           | 0.278        |
-| +InterVID   | 0.497  | 0.296     | 0.187  | 0.597        | 0.354           | 0.268        |
-| +OpenVID    | 0.506  | 0.316     | 0.201  | 0.602        | 0.351           | 0.248        |
 | **+CoI-VID** | **0.670**  | **0.381**     | **0.272**  | **0.702**        | **0.412**           | **0.391**        |
 
 
