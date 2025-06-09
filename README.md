@@ -155,7 +155,7 @@ We use the same prompts as human evaluation perform a VLM-based evaluation.
   * <small>`similarity_evaluation/object_similarity_evaluation.py` → Code for computing similarity evaluation.
   * <small>`middle_frames.zip` → *Ground-truth middle frames for similarity evaluation. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/middle_frames_for_sim_eval.zip </small>  
   * <small>`rectangles.zip` → *Manually filtered object bounding boxes on ground-truth video frames for similarity evaluation. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/rectangles.zip </small>  
-  * <small>`CI-VID_results.zip` → *Visualizations of results from the CI-VID fine-tuned model. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/CI-VID_sim_results.zip </small>  
+  * <small>`CI-VID_results.zip` → *Visualizations of results from the CI-VID fine-tuned model. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/CoI-VID_sim_results.zip </small>  
   * <small>`observation_for_object_similarity_data.zip` → *Visual observation files for similarity-based evaluation data. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/observation_for_object_similarity_data.zip </small>  
 
 ---
