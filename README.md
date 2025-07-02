@@ -54,17 +54,6 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
 
 ---
 
-- **Result Summary**:
-
-| Metric        | Win    | Tie   | Loss  |
-|---------------|--------|-------|--------|
-| Consistency   | **90.0%** | 6.5% | 3.6% |
-| Narrativity   | **80.9%** | 15.0% | 4.1% |
-| Correctness   | **78.3%** | 9.8% | 11.9% |
-
-
----
-
 ## 🤖 2. VLM-based Evaluation
 * 📁 **Provided Files**
   * <small>`vlm_evaluation/vlm_evaluation_data.jsonl` → *Prompts used for evaluation.*</small>  
@@ -123,16 +112,6 @@ We use the same prompts as human evaluation perform a VLM-based evaluation.
 
 > 🧪 Averaged over 6 evaluations per sample (1 full + 5 pairwise), with VLM calibration via reference examples.
 
----
-- **Result Summary**:
-
-| Model       | Style | Entity | Background | Perspective | Prompt Align | Visual |
-|-------------|-------|--------|------------|-------------|--------------|--------|
-| Baseline    | 3.07   | 2.84   | 2.80       | 3.02       | 3.99       | 3.25   |
-| **+CI-VID** | **3.83** | **3.73** | **3.75** | **3.81** | **4.07** | 3.62  |
-
----
-
 
 ## 🎯 3. Similarity-based Evaluation
 
@@ -172,17 +151,6 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
 <img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/200.jpg" border=0 width=70%>
 <img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/201.jpg" border=0 width=70%>
 <img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/388.jpg" border=0 width=70%>
-
----
-
-
-- **Result Summary**:
-
-| Model       | CLIP ↑ | 1-LPIPS ↑ | SSIM ↑ | CLIP (Obj) ↑ | 1-LPIPS (Obj) ↑ | SSIM (Obj) ↑ |
-|-------------|--------|-----------|--------|--------------|------------------|--------------|
-| Baseline    | 0.512  | 0.309     | 0.199  | 0.601        | 0.360           | 0.278        |
-| **+CI-VID** | **0.670**  | **0.381**     | **0.272**  | **0.702**        | **0.412**           | **0.391**        |
-
 
 ---
 
