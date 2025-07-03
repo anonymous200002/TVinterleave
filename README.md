@@ -1,15 +1,22 @@
-# 🗂️ Samples of CI-VID
+# 📄 CI-VID: A Coherent Interleaved Text-Video Dataset
+CI-VID is a large-scale dataset designed to advance **coherent multi-clip video generation**. Unlike traditional text-to-video (T2V) datasets with isolated clip-caption pairs, CI-VID supports **text-and-video-to-video (TV2V)** generation by providing over **340,000** interleaved sequences of video clips and rich captions. It enables models to learn both **intra-clip content** and **inter-clip transitions**, fostering **story-driven generation** with strong temporal and visual coherence. We also introduce a comprehensive evaluation suite including **human**, **VLM-based**, and **similarity-based** assessments.
+
+🔗 [📃 Paper](https://arxiv.org/abs/2507.01938)  
+🔗 [📦 Dataset Download](https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/CI-VID.zip)
+
+
+## 🗂️ Samples of CI-VID
 * 📁 **Provided Files**
   * <small>`CI-VID_samples_for_visualization/`
     
 This part of the repository contains samples extracted from CI-VID to better illustrate the dataset’s structure and characteristics.
 
 
-# 📊 Quantitative Evaluation for CI-VID
+## 📊 Quantitative Evaluation for CI-VID
 
 This part of the repository contains the quantitative evaluation resources for the CI-VID dataset, including evaluation code, prompts, visualizations, and sample annotations. We provide three complementary evaluation approaches:
 
-## 🔍 Overview
+### 🔍 Overview
 
 We propose three evaluation protocols:
 
@@ -19,7 +26,7 @@ We propose three evaluation protocols:
 
 ---
 
-## 👥 1. Human Evaluation
+### 👥 1. Human Evaluation
 
 * 📁 **Provided Files**
   * <small>`human_evaluation/prompts.jsonl` → *Prompts used for evaluation.*</small>  
@@ -54,7 +61,7 @@ Human evaluation is based on 1,000 automatically generated prompts (Seeded with 
 
 ---
 
-## 🤖 2. VLM-based Evaluation
+### 🤖 2. VLM-based Evaluation
 * 📁 **Provided Files**
   * <small>`vlm_evaluation/vlm_evaluation_data.jsonl` → *Prompts used for evaluation.*</small>  
   * <small>`vlm_evaluation/vlm_evaluation.py` → Code for VLM-based evaluation </small>  
@@ -113,7 +120,7 @@ We use the same prompts as human evaluation perform a VLM-based evaluation.
 > 🧪 Averaged over 6 evaluations per sample (1 full + 5 pairwise), with VLM calibration via reference examples.
 
 
-## 🎯 3. Similarity-based Evaluation
+### 🎯 3. Similarity-based Evaluation
 
 
 * 📁 **Provided Files**
@@ -131,7 +138,7 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
 
 ---
 
-### ⚙️ Evaluation Setup
+#### ⚙️ Evaluation Setup
 
 1. **Object Detection**:  
    YOLO is applied to each video clip. For every clip, 3 frames are uniformly sampled and processed.
@@ -151,6 +158,23 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
 <img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/200.jpg" border=0 width=70%>
 <img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/201.jpg" border=0 width=70%>
 <img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/388.jpg" border=0 width=70%>
+
+### 📚 Citation
+
+If you use **CI-VID** in your research, please cite our paper:
+
+#### 🔹 BibTeX
+```bibtex
+@misc{ju2025cividcoherentinterleavedtextvideo,
+      title={CI-VID: A Coherent Interleaved Text-Video Dataset}, 
+      author={Yiming Ju and Jijin Hu and Zhengxiong Luo and Haoge Deng and hanyu Zhao and Li Du and Chengwei Wu and Donglin Hao and Xinlong Wang and Tengfei Pan},
+      year={2025},
+      eprint={2507.01938},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.01938}, 
+}
+```
 
 ---
 
