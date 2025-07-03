@@ -2,8 +2,8 @@
 CI-VID is a large-scale dataset designed to advance **coherent multi-clip video generation**. Unlike traditional text-to-video (T2V) datasets with isolated clip-caption pairs, CI-VID supports **text-and-video-to-video (TV2V)** generation by providing over **340,000** interleaved sequences of video clips and rich captions. It enables models to learn both **intra-clip content** and **inter-clip transitions**, fostering **story-driven generation** with strong temporal and visual coherence. We also introduce a comprehensive evaluation suite including **human**, **VLM-based**, and **similarity-based** assessments.
 
 🔗 [📃 Paper](https://arxiv.org/abs/2507.01938)  
-🔗 [📦 Download Captions](ks3://flagchat/runway_log/all_train_samples.jsonl)
-🔗 [📦 Download Videos](ks3://flagchat/runway_log/ymju_interleve)
+🔗 [📦 Download Captions](https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/all_train_samples.jsonl)  
+🔗 [📦 Download Videos](https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/ymju_interleve/)
 
 
 ## 🗂️ Samples of CI-VID
