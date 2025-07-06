@@ -3,7 +3,7 @@ CI-VID is a large-scale dataset designed to advance **coherent multi-clip video 
 
 🔗 [📃 Paper](https://arxiv.org/abs/2507.01938)  
 🔗 [📦 Download Captions](https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/all_train_samples.jsonl)  
-🔗 [📦 Download Videos]: CI-VID/download_all_chunks.sh
+[📦 Download Videos]: CI-VID/download_all_chunks.sh
 
 
 ## 🗂️ Samples of CI-VID
