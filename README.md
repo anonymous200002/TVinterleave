@@ -160,6 +160,14 @@ We construct a similarity-based evaluation dataset based on CI-VID data. To avoi
 <img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/201.jpg" border=0 width=70%>
 <img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/388.jpg" border=0 width=70%>
 
+### Research-Only License
+
+This dataset is provided **for non-commercial, research purposes only**.
+
+- Commercial use is **not allowed**.
+- Redistribution or repackaging is **not permitted** without prior consent.
+
+  
 ### 📚 Citation
 
 If you use **CI-VID** in your research, please cite our paper:
