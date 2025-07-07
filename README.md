@@ -12,6 +12,9 @@ CI-VID is a large-scale dataset designed to advance **coherent multi-clip video 
     
 This part of the repository contains samples extracted from CI-VID to better illustrate the dataset’s structure and characteristics.
 
+<img src="https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/example.png" border=0 width=90%>
+
+
 
 ## 📊 Quantitative Evaluation for CI-VID
 
