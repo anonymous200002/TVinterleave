@@ -1,10 +1,10 @@
 # 📄 CI-VID: A Coherent Interleaved Text-Video Dataset
-CI-VID is a large-scale dataset designed to advance **coherent multi-clip video generation**. Unlike traditional text-to-video (T2V) datasets with isolated clip-caption pairs, CI-VID supports **text-and-video-to-video (TV2V)** generation by providing over **340,000** interleaved sequences of video clips and rich captions. It enables models to learn both **intra-clip content** and **inter-clip transitions**, fostering **story-driven generation** with strong temporal and visual coherence. We also introduce a comprehensive evaluation suite including **human**, **VLM-based**, and **similarity-based** assessments.
+CI-VID is a large-scale dataset designed to advance **coherent multi-clip video generation**. Unlike traditional text-to-video (T2V) datasets with isolated clip-caption pairs, CI-VID supports **text-and-video-to-video (TV2V)** generation by providing over **340,000** interleaved sequences of video clips and rich captions. It enables models to learn both **intra-clip content** and **inter-clip transitions**, fostering **story-driven generation** with strong temporal and visual coherence. We also introduce a comprehensive evaluation suite including **human**, **VLM-based**, and **similarity-based** assessments. In addition, we split CI-VID into a training set (334k samples) and a test set (8k samples), enabling users to develop and evaluate their own metrics using the test set.
 
 🔗 [📃 Paper](https://arxiv.org/abs/2507.01938)  
-🔗 [📦 Download Captions](https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/all_train_samples.jsonl)  
+🔗 [📦 Download Train Samples (334k)](https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/train_samples.jsonl)  
+🔗 [📦 Download Test Samples (8k)](https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/train_samples.jsonl)  
 [📦 Download Videos]: CI-VID/download_all_chunks.sh
-
 
 ## 🗂️ Samples of CI-VID
 * 📁 **Provided Files**
