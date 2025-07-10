@@ -34,7 +34,7 @@ We propose three evaluation protocols:
 
 * 📁 **Provided Files**
   * <small>`human_evaluation/prompts.jsonl` → *Prompts used for evaluation.*</small>  
-  * <small>`human_evaluation/visual_contrast/` → *Visualizations for human evaluation (1,000 prompts). 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/visual_contrast.zip </small>  
+  * <small>`human_evaluation/visual_contrast/` → *Visualizations for human evaluation (1,000 prompts). 💡download(https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/visual_contrast.zip) </small>  
 
 ---
 
