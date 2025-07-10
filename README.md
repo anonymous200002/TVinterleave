@@ -4,7 +4,7 @@ CI-VID is a large-scale dataset designed to advance **coherent multi-clip video 
 🔗 [📃 Paper](https://arxiv.org/abs/2507.01938)  
 🔗 [📦 Download Train Samples (334k)](https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/CI-VID_train_samples.jsonl)  
 🔗 [📦 Download Test Samples (8k)](https://flagchat.ks3-cn-beijing.ksyuncs.com/runway_log/CI-VID_test_samples.jsonl)  
-[📦 Download Videos]: CI-VID/download_all_chunks.sh
+📦 Download Videos: CI-VID/download_all_chunks.sh
 
 ## 🗂️ Samples of CI-VID
 * 📁 **Provided Files**
@@ -34,7 +34,7 @@ We propose three evaluation protocols:
 
 * 📁 **Provided Files**
   * <small>`human_evaluation/prompts.jsonl` → *Prompts used for evaluation.*</small>  
-  * <small>`human_evaluation/visual_contrast/` → *Visualizations for human evaluation (1,000 prompts). 💡download(https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/visual_contrast.zip) </small>  
+  * <small>`human_evaluation/visual_contrast/` → *Visualizations for human evaluation (1,000 prompts). [💡download](https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/visual_contrast.zip) </small>  
 
 ---
 
@@ -129,7 +129,7 @@ We use the same prompts as human evaluation perform a VLM-based evaluation.
 
 * 📁 **Provided Files**
   * <small>`similarity_evaluation/object_similarity_data.jsonl` → *Captions and first clips for similarity-based evaluation.*</small>  
-  * <small>`similarity_evaluation/object_similarity_evaluation.py` → Code for computing similarity evaluation.
+  * <small>`similarity_evaluation/object_similarity_evaluation.py` → Code for computing similarity evaluation.</small> 
   * <small>`middle_frames.zip` → *Ground-truth middle frames for similarity evaluation. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/middle_frames_for_sim_eval.zip </small>  
   * <small>`rectangles.zip` → *Manually filtered object bounding boxes on ground-truth video frames for similarity evaluation. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/rectangles.zip </small>  
   * <small>`CI-VID_results.zip` → *Visualizations of results from the CI-VID fine-tuned model. 💡download via: wget https://flagchat.ks3-cn-beijing.ksyuncs.com/TVinterleve/CoI-VID_sim_results.zip </small>  
