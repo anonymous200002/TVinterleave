@@ -2,7 +2,7 @@
 mkdir -p ymju_interleve_zip
 cd ymju_interleve_zip
 
-# Due to bandwidth and hosting constraints, only chunk_0_40.tar.gz is currently available for public download. If you are interested in accessing the full dataset (6.5TB), please contact the authors directly.
+# Due to bandwidth and hosting constraints, only chunk_0_40.tar.gz is currently available for public download. If you are interested in accessing the full dataset (6.5TB), please contact the authors directly (18514056363@163.com).
 
 base_url="https://flagchat.ks3-cn-beijing.ksyun.com/runway_log/ymju_interleve_zip"
 
